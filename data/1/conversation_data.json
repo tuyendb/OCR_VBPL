@@ -1,0 +1,2046 @@
+{
+    "data": [
+        {
+            "id": "d865fd83-6e35-4479-82de-57f4936e7df0",
+            "conversation": [
+                "Chào Jason, xin lỗi vì đã làm phiền bạn. Nhưng tôi muốn hỏi bạn một câu.",
+                "Được chứ, có chuyện gì vậy?",
+                "Tôi đã gặp sự cố với máy tính của mình. Tôi biết bạn là một kỹ sư nên tôi nghĩ bạn có thể giúp tôi.",
+                "Tôi hiểu rồi. Vấn đề gì thế?",
+                "Tôi có một tập tin mà tôi có thể mở được vì một số lý do.",
+                "Đó là loại tập tin gì?",
+                "Đó là một tài liệu word mà tôi đang làm việc. Tôi cần phải hoàn thành nó vào ngày mai.",
+                "Trước đó bạn có mở được nó trên máy tính mà bạn đang sử dụng không?",
+                "Vâng, tôi đã làm việc với nó đêm qua và mọi thứ đều ổn, nhưng sáng nay tôi không thể mở tập tin.",
+                "Bạn có nghĩ rằng máy tính của bạn có thể có virus?",
+                "Không, tôi đã kiểm tra và không có gì bất thường.",
+                "Được rồi. Tôi không chắc chắn về lỗi gặp phải. Nếu có thể, hãy gửi email cho tôi và tôi sẽ xem liệu tôi có thể mở nó ra không.",
+                "OK, tôi sẽ làm điều đó khi tôi về nhà. Bạn sẽ có mặt ở nhà vào tối nay?",
+                "Vâng, tôi sẽ về nhà sau 8 giờ tối. Gửi cho tôi khi bạn có cơ hội và tôi sẽ gọi cho bạn sau."
+            ]
+        },
+        {
+            "id": "eee6a32e-828e-4b86-9eb1-7ca73b88cbc8",
+            "conversation": [
+                "Này John, tôi có thể nói chuyện với bạn một phút được không?",
+                "Có chuyện gì thế?",
+                "Tôi muốn cho bạn biết về một câu lạc bộ sách mà tôi đã tham gia vài tháng trước. Tôi biết bạn đã đọc rất nhiều nên tôi nghĩ bạn có thể muốn đi cùng tôi vào tháng tới.",
+                "Ồ, nghe có vẻ vui. Khi nào nhóm gặp nhau?",
+                "Thường là thứ bảy cuối cùng của tháng lúc 9:30 tối. Có quá muộn không?",
+                "Không, tôi nghĩ rằng sẽ ổn. Bạn nói gì trong nhóm?",
+                "Chà, mỗi tháng chúng tôi chọn một cuốn sách mới và sau đó trong cuộc họp tiếp theo, hãy đọc nó.",
+                "Bây giờ bạn đang đọc sách gì vậy?",
+                "The Kite Runner.",
+                "Tôi đã nghe nói về cuốn sách ấy. Nó như thế nào?",
+                "Nó là một cuốn sách hay. Tôi gần như đã đọc hết. Cuốn sách kể về một cậu bé lớn lên ở Afghanistan trong những năm 1980. Nó gọi là Người thả diều vì nhân vật chính tham gia một cuộc thi thả diều.",
+                "Nghe thật hấp dẫn. Tôi rất muốn đến.",
+                "Tuyệt. Cuộc họp tiếp theo sẽ diễn ra trong hai tuần nữa, vì vậy bạn vẫn có thời gian để đọc sách."
+            ]
+        },
+        {
+            "id": "d5822f5f-9d93-4fba-905e-c32f214a343a",
+            "conversation": [
+                "Em sắp trở lại Pháp, em muốn mua một vài tác phẩm văn học mang về làm kỷ niệm và tặng cho bạn bè. Theo anh, em nên mua những tác phẩm nào?",
+                "Người ta mới xuất bản loại sách bỏ túi, có nhiều tác phẩm rất hay, cô nên mua.",
+                "Những cuốn nào vậy anh?",
+                "Kiều, 100 bài thơ tình của Xuân Diệu, thơ Nguyễn Bính chẳng hạn.",
+                "Ồ! Tuyệt quá, ở Pháp, Kiều, thơ tình của Xuân Diệu, nhất là thơ tiền chiến, thơ Nguyễn Bính... ai cũng thích. Em sẽ mua. Thế còn truyện, tiểu thuyết?",
+                "Rất khó nói. Vì mỗi nhà văn đều có độc giả riêng của mình. Cô thích ông nào thì mua sách của ông ấy.",
+                "Vâng! Nhưng có lẽ em cũng phải tìm mua một số tác phẩm được dư luận chú ý nhiều mới được, để biết thêm về tình hình văn học của nước ta hiện nay."
+            ]
+        },
+        {
+            "id": "08ccd2a4-d7d8-4ef2-8792-76e62a328d54",
+            "conversation": [
+                "Thưa giáo sư! ý nghĩa câu nói của Chủ tịch Hồ Chí Minh: \"Các vua Hùng đã có công dựng nước, Bác cháu ta phải cùng nhau giữ nước\" là như thế nào ạ?",
+                "Có thể nói một cách khái quát như sau: Suốt bốn ngàn năm lịch sử, từ thời đại Hùng Vương đến thời đại Hồ Chí Minh, nhân dân Việt Nam luôn phải đương đầu với thiên nhiên, đấu tranh chinh phục thiên nhiên để xây dựng đất nước, đồng thời cũng luôn phải chống giặc ngoại xâm để bảo vệ đất nước. Truyền thống dựng nước và giữ nước đó đã được hun đúc và phát huy qua các thời đại. Mọi người, mọi dân tộc sống trên dải đất này đều đoàn kết thương yêu giúp đỡ nhau để chống chọi với thiên nhiên, tạo dựng cơ nghiệp. Nhưng hễ có giặc ngoại xâm thì mọi người lại sát cánh bên nhau, gắn tình làng với nghĩa nước, chiến đấu ngoan cường để bảo vệ quê hương, Tổ quốc. Người dân Việt Nam coi trọng đạo lý tình nghĩa trong gia đình nhưng cũng coi trọng đạo lý, tình nghĩa với nhân dân với đất nước. Thời đại Hồ Chí Minh đã phát huy cao nhất truyền thống \"trung với nước, hiếu với dân\", nhân dân Việt Nam đã kiên cường bất khuất, vượt qua bao gian khổ hy sinh vì sự nghiệp giành độc lập tự do cho Tổ quốc. Chính vì thế, Bác Hồ đã nói \"Các vua Hùng đã có công dựng nước, Bác cháu ta phải cùng nhau giữ nước\".",
+                "Xin cảm ơn giáo sư."
+            ]
+        },
+        {
+            "id": "36f91e99-e212-4c28-aee1-80f31bfbaeb2",
+            "conversation": [
+                "Ông ơi! Tại sao người ta lại nói là Hà Nội 36 phố phường hả ông?",
+                "À! Là bởi vì trước đây Hà Nội chỉ có 36 phố phường thôi cháu ạ, bây giờ đó là những phố cổ của Hà Nội.",
+                "Thế phố mình có phải phố cổ không ạ?",
+                "Không! Các phố gần trên chợ Đồng Xuân mới là phố cổ. Chẳng hạn như phố Hàng Đào này, phố Hàng Đường, Hàng Gai này, phố Hàng Buồm, Hàng Bạc này..v.v..."
+            ]
+        },
+        {
+            "id": "21c10855-596d-434c-a364-e902e844b754",
+            "conversation": [
+                "Ngày mai chúng mình rủ các bạn sinh viên nước ngoài đi xem kịch ở Nhà hát Lớn đi!",
+                "Kịch gì? Khéo lại xem phải vở cũ đấy.",
+                "Vở gì không quan trọng. Miễn là họ có diễn để chúng mình vào xem. Điều quan trọng là mình muốn để các bạn ấy xem Nhà hát Lớn của ta, một công trình kiến trúc khá đặc sắc từ thời Pháp.",
+                "Nếu chỉ để xem công trình kiến trúc Pháp thì có thể đi xem Nhà thờ Lớn cũng được.",
+                "Nhưng muốn vào xem Nhà thờ Lớn thì lại phải chờ đến Noel 25 tháng12 mới vào được. Lâu quá!",
+                "Tuỳ bạn."
+            ]
+        },
+        {
+            "id": "01446a52-c95f-4dd0-849c-77227f9c83bf",
+            "conversation": [
+                "Theo cậu, với trình độ tiếng Việt hiện tại, muốn hiểu được, mình nên đi xem gì?",
+                "Tốt nhất là cậu nên đi xem chèo. Theo mình chèo Việt Nam rất hay, và điều quan trọng là không biết tiếng, xem chèo người ta vẫn có thể hiểu được hết.",
+                "Tốt quá. Vậy thì có thể đi xem chèo ở đâu?",
+                "Để tối mai mình dẫn cậu đi. Mình đã xem nhiều lần rồi nhưng vẫn muốn xem nữa.Ở Hà Nội có một nhà hát chuyên diễn chèo ở Kim Mã, nhưng có lẽ đến Câu lạc bộ chèo truyền thống ở phố Nguyễn Đình Chiểu tốt hơn vì ở đó diễn hầu hết các vở chèo hoặc trích đoạn chèo cổ của Việt Nam và do các nghệ sĩ nổi tiếng trình diễn."
+            ]
+        },
+        {
+            "id": "9495a85f-bfd6-4bff-bab0-2fe57a3e025c",
+            "conversation": [
+                "Đến Hà Nội lần này tôi rất muốn xem biểu diễn rối nước nhưng chưa biết xem ở đâu? Anh có biết không?",
+                "Thưa giáo sư! Có thể đến Nhà hát Rối nước để xem ạ.",
+                "Ồ! Tốt quá! Nhà hát ấy ở đâu? Hôm nay anh có thể dẫn tôi đi xem được không?",
+                "Thưa, được ạ. Nhà hát rối nước ở đường Trường Chinh gần đây thôi ạ. Có lẽ giáo sư đi xem buổi 19 giờ là tốt nhất ạ.",
+                "Vâng! Vâng! Chúng ta sẽ đi xem buổi đó. Anh nhớ đến nhé.",
+                "Vâng ạ."
+            ]
+        },
+        {
+            "id": "f5f178d0-7580-4756-b5fb-177c0d991d79",
+            "conversation": [
+                "Hùng ơi! Tại sao ở Hà Nội, mình không thấy nhà hát nào diễn cải lương cả?",
+                "Có nhưng không phải là nhà hát Trung ương mà là của thành phố. Đó là Rạp Chuông vàng. Còn Đoàn cải lương Trung ương thì không có nhà hát riêng như chèo. Thỉnh thoảng cũng diễn ở vài Nhà hát như Hồng Hà, Nhà hát Lớn.",
+                "Tại sao vâỵ?",
+                "Lý do đơn giản là cải lương phổ biến hơn ở miền Nam. Ở thành phố Hồ Chí Minh có nhiều nhà hát cải lương. Có thể nói ở Nam bộ nói chung, thành phố Hồ Chí Minh nói riêng, không một loại hình nghệ thuật sân khấu nào thu hút khán giả mạnh mẽ bằng cải lương."
+            ]
+        },
+        {
+            "id": "82647b97-4dbc-4b9d-bf09-29b57c23d40a",
+            "conversation": [
+                "Các bạn có hiểu hết nội dung phim không?",
+                "Hầu như mình chẳng hiểu gì cả vì các diễn viên toàn nói giọng miền Nam.",
+                "Mình có thể hiểu được phần nào nhờ có một bạn sinh viên Việt Nam ngồi bên cạnh dịch ngay sang tiếng miền Bắc những câu có từ ngữ lạ. Vả chăng nội dung phim cũng dễ hiểu.",
+                "Mình thì gần như hiểu hết vì khi ở Mỹ mình đã nghe rất nhiều người Việt Nam nói giọng miền Nam."
+            ]
+        },
+        {
+            "id": "80e9ce2a-a5c8-48f9-b43a-c854c8efd550",
+            "conversation": [
+                "Chị cho tôi tráng và in cuộn phim...",
+                "Anh in tất cả cuộn à?",
+                "Chỉ in những kiểu rõ và đẹp, kiểu nào chụp hỏng thì thôi.",
+                "Ngày mai anh lấy nhé!",
+                "Chị cho chiều nay thì tốt.",
+                "Vâng! cũng được nhưng anh đến  vào cuối buổi chiều thì chắc chắn hơn.",
+                "Vâng! Chị bán cho một cuộn phim.",
+                "Anh mua loại nào? Kodak hay Konica?",
+                "Konica"
+            ]
+        },
+        {
+            "id": "a7b6fde2-3a2a-403a-b814-4592e0c504a3",
+            "conversation": [
+                "Chào George, bạn có biết làm thế nào để vào trung tâm thành phố?",
+                "Chắc chắn rồi. Tại sao bạn lại muốn đến đó?",
+                "Tôi muốn mua một máy tính mới.",
+                "OK, bạn đang lái xe hả?",
+                "Vâng.",
+                "Đi thẳng xuống con đường này. Khi bạn đến cột đèn thứ hai, rẽ trái. Sau đó lên đường cao tốc và đi theo lối ra 52.",
+                "Nghe thật phức tạp. Bạn có thể nói lại với tôi không? Con đường nào tôi đi đầu tiên?",
+                "Bạn đi xuống con đường này, rồi ở đèn thứ hai, rẽ trái. Con đường đó là phố chính.",
+                "OK, tôi nghĩ rằng tôi sẽ đi ngay bây giờ.",
+                "Tại sao bạn vẫn mua một máy tính mới? Có phải bạn đã mua vài tháng trước?",
+                "Đúng rồi, nhưng bây giờ nó không hoạt động nữa.",
+                "Bạn mua nó ở đâu?",
+                "Tại Wal-Mart.",
+                "Tôi nghĩ máy tính của bạn vẫn được bảo hành. Bạn có thể mang nó trở lại và họ sẽ sửa nó miễn phí.",
+                "Tôi nghĩ bạn đúng. Tôi đã không nghĩ đến điều đó. Tôi nên đi nói chuyện với họ về nó. Wal-Mart gần nhất ở đâu?",
+                "Nó khoảng 2 dãy nhà từ đây. Tôi phải đến đó để mua một số thứ ngay bây giờ. Bạn có muốn đi cùng tôi không?",
+                "Chắc chắn rồi."
+            ]
+        },
+        {
+            "id": "ebb4c5cd-0a55-4b3a-8d78-1be94c81551c",
+            "conversation": [
+                "Này,ngày mai lớp mình đi cắm trại đấy.Nhớ đi sớm nha.",
+                "Ừ,biết rồi.Mà mai bọn mình đi đâu nhỉ.",
+                "Lớp mình vô rừng Cúc Phương xong rồi dựng trại ở bìa rừng để ăn trưa luôn.",
+                "Mai bọn mình còn tổ chức văn nghệ nữa đấy.",
+                "Ờ,Bà làm bài tập tiếng anh chưa,tôi mượn. Nhanh lên.",
+                "Đây này, làm đi tí cô kiểm tra đấy.",
+                "Biết rồi.Ý, cô vô.",
+                "Chép xong chưa.",
+                "Rồi,cảm ơn nhé."
+            ]
+        },
+        {
+            "id": "b6d651af-f95d-471a-8197-372b49b8559e",
+            "conversation": [
+                "Hôm nay, mình được cô cho điểm mười.",
+                "Thế à? Môn gì thế?",
+                "Môn Văn.",
+                "Ôi cậu thật tuyệt! Cậu hãy chỉ cho mình cách học giỏi môn Văn nhé!",
+                "Đâu có gì khó chỉ là vốn từ ngữ và sự quan sát độc đáo sẽ giúp chúng a thêm phần tiến bộ hơn. Nhưng ...",
+                "Nhưng sao?",
+                "Nhưng theo mình vẫn nhờ vào sự kiên trì là nhiều nhất!",
+                "Nhờ sự kiên trì ư?",
+                "Đúng vậy, có kiên trì chịu khó chau chuốt chuốt kiến thức thì mới có được thành công.",
+                "Có lẽ cậu nói đúng! Mình cảm ơn nhiều.",
+                "Không có gì đâu!"
+            ]
+        },
+        {
+            "id": "8a234535-6d86-40fc-9172-17f67c532278",
+            "conversation": [
+                "Chào chị. Trên báo có đăng nhà chị có mấy phòng cho thuê. Tôi muốn thuê 1 phòng",
+                "Được. Anh muốn thuê phòng như thế nào?",
+                "Tôi muốn thuê 1 phòng nhỏ để mình tôi sống. Phòng của chị có rộng không?",
+                "Khoảng 15 m2",
+                "Cỏ vẻ rất vừa ý tôi. Tôi xem qua được không?",
+                "Tất nhiên. Mời anh đi lối này"
+            ]
+        },
+        {
+            "id": "7081ac68-5412-4914-847f-417fac4e0bf0",
+            "conversation": [
+                "Xin chào, công ty Hải Nam xin nghe",
+                "Chào cô, tôi là Huân. Cho tôi nói chuyện với anh Trung được không?",
+                "Xin anh chờ 1 lát… Ồ, rất tiếc, anh Trung ra ngoài rồi",
+                "Tiếc quá. Vậy tôi có thể nhắn lại không?",
+                "Tất nhiên rồi",
+                "Nhờ cô nhắn anh ấy tối nay tôi không gặp anh ấy được",
+                "Vâng. Khi nào anh ấy về tôi sẽ nhắn lại đây",
+                "Cảm ơn cô",
+                "Không có gì. Chào anh"
+            ]
+        },
+        {
+            "id": "b8c03bf7-91fa-4306-a479-917a47161409",
+            "conversation": [
+                "Xin chào.",
+                "Xin chào.",
+                "Bạn khỏe không? ",
+                "Tôi khỏe. Bạn khỏe không?",
+                "Khỏe. Bạn có nói tiếng Anh không?",
+                "Một chút. Bạn là người Mỹ hả?",
+                "Vâng",
+                "Bạn từ đâu tới?",
+                "Tôi từ California.",
+                "Rất vui được gặp bạn.",
+                "Tôi cũng rất vui được gặp bạn."
+            ]
+        },
+        {
+            "id": "0612f6f5-c127-4faa-b648-a80860f17871",
+            "conversation": [
+                "Xin lỗi, bạn là người Mỹ phải không?",
+                "Không.",
+                "Bạn có nói tiếng Anh không?",
+                "Một chút, nhưng không giỏi lắm.",
+                "Bạn ở đây bao lâu rồi?",
+                "Hai tháng.",
+                "Bạn làm nghề gì?",
+                "Tôi là một học sinh. Còn bạn?",
+                "Tôi cũng là một học sinh."
+            ]
+        },
+        {
+            "id": "46b4f71b-7a88-45b7-afe2-d81438270931",
+            "conversation": [
+                "Xin lỗi, bạn tên là gì?",
+                "Tên tôi là Jessica. Còn tên của bạn?",
+                "John.",
+                "Bạn nói tiếng Anh rất giỏi.",
+                "Cám ơn.",
+                "Bạn biết bây giờ là mấy giờ không?",
+                "Chắc rồi. Bây giờ là 5:10 chiểu.",
+                "Bạn nói gì?",
+                "Tôi nói bây giờ là 5:10 chiểu.",
+                "Cám ơn.",
+                "Không có gì."
+            ]
+        },
+        {
+            "id": "a4842f1f-9279-48aa-8746-6af9db6d652e",
+            "conversation": [
+                "Chào Michael.",
+                "Chào Amy. Có chuyện gì vậy?",
+                "Tôi đang tìm phi trường. Bạn có thể nói cho tôi biết làm cách nào đến đó được không?",
+                "Không, tất tiếc. Tôi không biết.",
+                "Tôi nghĩ tôi có thể đi xe điện ngầm để tới phi trường. Bạn có biết đuờng xe điện ngầm ở đâu không?",
+                "Chắc rổi. Nó ở đẳng kia.",
+                "Ở đâu? Tôi không thấy nó.",
+                "Phía bên kia đường.",
+                "Ô, bây giờ tôi thấy rồi. Cám ơn."
+            ]
+        },
+        {
+            "id": "0c1fcdfb-deaa-4938-93f6-494ac815bb2f",
+            "conversation": [
+                "Chào Sarah, bạn khỏe không?",
+                "Khỏe, bạn thế nào?",
+                "Được.",
+                "Bạn muốn làm gì? ",
+                "Tôi đói. Tôi muốn ăn thứ gì đó. ",
+                "Bạn muốn đi đâu?",
+                "Tôi muốn đi tới một nhà hàng Ý",
+                "Bạn thích loại món ăn Ý nào?",
+                "Tôi thích spagheti. Bạn có thích spaghett không?",
+                "Không, tôi không thích, nhưng tôi thích pizza."
+            ]
+        },
+        {
+            "id": "3e759e98-d165-43a0-ba26-520636fb1ff1",
+            "conversation": [
+                "David, bạn muốn ăn món gì không?",
+                "Không, tôi no rồi.",
+                "Bạn muốn uống thứ gì không?",
+                "Vâng, tôi muốn một ít cà phê.",
+                "Rất tiếc, tôi không có cà phê.",
+                "Được thôi. Tôi sẽ uống một ly nước.",
+                "Ly nhỏ hay ly lớn.",
+                "Làm ơn cho ly nhỏ.",
+                "Đây.",
+                "Cám ơn.",
+                "Không có gì."
+            ]
+        },
+        {
+            "id": "32609074-108b-4c23-a296-a9151ce084ca",
+            "conversation": [
+                "John, bạn đã xem thời sự ngày hôm nay chưa?",
+                "Chưa, có chuyện gì xảy ra không?",
+                "Có một trận động đất lớn ở San Diego.",
+                "Ôi! Chúa ơi!",
+                "Tổng thống có nói về tin tức này trước đó",
+                "Có ai bị thương không?",
+                "Họ nói có hai người bị giết.",
+                "Ôi, thật là tồi tệ.",
+                "Vâng, không tin bạn chưa từng nghe về nó đấy. Nói đã nói trên CNN cả ngày.",
+                "Ồ, tôi không xem TV thường xuyên.",
+                "Vậy là bạn không xem thời sự?",
+                "Không, tôi thường đọc tin tức trên mạng, nhưng tôi không có thời gian để bật máy tính của mình ngày hôm nay."
+            ]
+        },
+        {
+            "id": "027ed369-5dee-4891-9266-32e2e668e439",
+            "conversation": [
+                "Mary, bạn muốn mua thứ gì để ăn cùng với. tôi không?",
+                "Được, khi nào? ",
+                "Lúc 10 giờ. ",
+                "10 giờ sáng hả? ",
+                "Không,tối. ",
+                "Rất tiếc, trễ quá. Tôi thường đi ngủ khoảng 10 giờ tối.. ",
+                "Được, 1:30 chiểu thì sao?",
+                "Không, như vậy sớm quá. Tôi vẫn còn đang. làm việc lúc đó. ",
+                "Vậy 5 giờ chiều?",
+                "Tốt lắm. ",
+                "Tốt, gặp bạn lúc đó. ",
+                "Được, tạm biệt."
+            ]
+        },
+        {
+            "id": "ed85d118-e456-4430-8d96-c93ddc8b76bc",
+            "conversation": [
+                "Jennifer, bạn có muốn ăn tối với tôi không?",
+                "Vâng, tốt lắm, Bạn muốn đi khi nào? ",
+                "Hôm nay được không? ",
+                "Rất tiếc, tôi không thể đi hôm nay. ",
+                "Tối mai thì sao? ",
+                "Được, mấy giờ? ",
+                "9 giờ tối được không? ",
+                "Tôi nghĩ như vậy trễ quá. ",
+                "6 giờ chiều được không? ",
+                "Tốt rồi. Bạn muốn đi đâu? ",
+                "Nhà hàng Ý trên đường số 5. ",
+                "Ổ, tôi không thích nhà hàng đó. Tôi không muốn đi tới đó.",
+                "Vậy nhà hàng Hàn Quốc cạnh đó thì sao?",
+                "Được, tôi thích nơi đó."
+            ]
+        },
+        {
+            "id": "a616b773-f870-4e9c-a155-3b66aa6fedc1",
+            "conversation": [
+                "Chào Mark",
+                "Chào",
+                "Bạn dự tính làm gì hôm nay?",
+                "Tôi chưa biết chắc. ",
+                "Bạn muốn ăn trưa với tôi không?",
+                "Vâng, khi nào?",
+                "11:30 sáng được không?",
+                "Xin lỗi tôi không nghe rõ. Bạn nói lại được không? ",
+                "Tôi nói là 11:30 sáng.",
+                "Ồ, khi đó tôi bận. Chúng ta có thể gặp nhau trễ hơn một chút được không?",
+                "Được, 12:30 trưa thì sao?",
+                "Được, ở đâu?",
+                "Nhà hàng hải sản BIll thì sao?",
+                "Được. Nó Ở đâu?",
+                "Nó Ở trên đường số 7. ",
+                "Được, tôi sẽ gặp bạn ở đó."
+            ]
+        },
+        {
+            "id": "1d3cf2a5-eeef-47ba-accb-861465d836b4",
+            "conversation": [
+                "Chris, bạn đang đi đâu vậy? ",
+                "Tôi đi cửa hàng. Tôi cần mua vài thứ.",
+                "Vậy hả? Tôi cũng cần đi ra cửa hàng.",
+                "Bạn muốn đi với tôi không?",
+                " Vâng, chúng ta cùng đi.",
+                "Bạn muốn đi bây giờ hay lát nữa?",
+                "Bây giờ.",
+                "Cái gì?",
+                "Bây giờ thì tốt hơn.",
+                "Được, chúng ta hãy đi.",
+                "Chúng ta nên đi bộ không?",
+                "Không, xa lắm. Chúng ta hãy lái xe đi."
+            ]
+        },
+        {
+            "id": "88c7e7b2-b8be-4e1c-96e8-66e51cd9e3a2",
+            "conversation": [
+                "Bạn sẽ làm gì hôm nay?",
+                "Tôi sẽ đi mua sắm.",
+                "Mấy giờ bạn đi?",
+                "Tôi sẽ đi khoảng 4 giờ. ",
+                "Bạn có thể mua cho tôi ổ bánh mì xăng uých giăm bông ở cửa hàng được không?",
+                "Được.",
+                "Bạn có đủ tiền không? ",
+                "Tôi không chắc. ",
+                "Bạn có bao nhiêu? ",
+                "25 đô. Bạn nghĩ rằng như vậy đủ không? ",
+                "Như vậy không nhiều lắm. ",
+                "Tôi nghĩ được. Tôi cũng có 2 thẻ tín dụng.",
+                "Để tôi đưa bạn thêm 10 đô.",
+                "Cám ơn. Gặp lại sau.",
+                "Tạm biệt. "
+            ]
+        },
+        {
+            "id": "c4efd8ec-6c10-43e7-9994-7fc1fd445256",
+            "conversation": [
+                "Chào Richard.",
+                "Chào Karen.",
+                "Bạn thế nào?",
+                "Không khỏe lắm. ",
+                "Tại sao vậy? ",
+                "Tôi bị ốm.",
+                "Rất tiếc nghe bạn ốm.",
+                "Được thôi. Không nghiêm trọng đâu.",
+                "Tốt. Còn bà xã bạn khỏe không?",
+                "Bà ấy khỏe.",
+                "Bây giờ bà ấy có ở Mỹ không?",
+                "Không, bà ấy chưa qua đây.",
+                "Bà ấy ở đâu?",
+                "Bà ấy ở Canada với mấy đứa nhóc của chúng tôi.",
+                "Tôi hiểu. Tôi phải đi bây giờ. Cho tôi gửi lời chào bà xã của bạn.",
+                "Được, tôi sẽ nói chuyện với bạn sau.",
+                "Tôi hy vọng bạn sẽ cảm thấy khỏe hơn.",
+                "Cám ơn."
+            ]
+        },
+        {
+            "id": "955e08e5-e9b9-40ad-9ddd-0868a5ef8830",
+            "conversation": [
+                "Robert đây là bạn tôi, bà Smith.",
+                "Chào, rất vui gặp bạn.",
+                "Cũng rất vui gặp bạn.",
+                "Bà Smith, bạn làm nghề gì? ",
+                "Tôi là bác sĩ.",
+                "Ô, bạn làm việc ở đâu? ",
+                "Bệnh viện đại học New York ở thành phố New York. Bạn làm nghề gì?",
+                "Tôi là thầy giáo. ",
+                "Bạn dạy môn gì?",
+                "Tôi dạy tiếng Anh.",
+                "Ở đâu? ",
+                "Tại một trường trung học Ở New Jersey.",
+                "Thực là tốt. Bạn bao nhiêu tuổi? ",
+                "Tôi 32 "
+            ]
+        },
+        {
+            "id": "e4c9bdff-ef3d-4d40-a690-1fd69bdd1e0a",
+            "conversation": [
+                "Xin lỗi.",
+                "Xin chào ông, tôi có thể giúp gì ông?. ",
+                "Vâng, tôi có thể xem cái áo sơ mi ở trên kệ trên cùng không? ",
+                "Dĩ nhiên, nó đây.",
+                "Nó giá bao nhiêu? ",
+                "50 đô.",
+                "50 đô. Như vậy mắc quá.",
+                "Cái này thì sao? Nó giảm giá chỉ có 35 đô.",
+                "Tôi không thích cái đó.",
+                "Còn cái cạnh đôi găng tay đen thì sao? Nó rất giống cái ông thích.",
+                "Nó đẹp đấy. Nó giá bao nhiêu? ",
+                "30 đô",
+                "Tốt lắm.",
+                "Màu này được không, hay ông thích màu khác?",
+                "Cái màu xanh đó được rồi. ",
+                "Ông còn cần thêm cái áo sơ mi nào giống như vậy nữa không? ",
+                "Vâng.",
+                "Ông muốn mấy cái?",
+                "Tôi sẽ lấy thêm 2 cái nữa, một cái đỏ và một cái trắng."
+            ]
+        },
+        {
+            "id": "9922bd63-3c5c-4eed-a0cf-b72bb235fb95",
+            "conversation": [
+                "Xin lỗi, tôi đang tìm Lữ Quán Holiday. Bạn biết nó ở đâu không?",
+                "Chắc rồi. Nó ở dưới con đường này phía bên trái.",
+                "Nó có xa đây không? ",
+                "Không, không xa đâu. ",
+                "Bao xa?",
+                "Khoảng một dặm rưỡi.",
+                "Mất bao lâu để tới đó?",
+                "Khoảng năm phút.",
+                "Nó có gần đường xe điện ngầm không?",
+                "Vâng rất gần. Nhà ga xe điện ngầm ở bên cạnh khách sạn. Bạn có thể đi bộ tới đó.",
+                "Cám ơn rất nhiều. "
+            ]
+        },
+        {
+            "id": "50f99fe5-7d42-426e-a657-abe5690e1aed",
+            "conversation": [
+                "Xin lỗi. Bạn biết đường nào đi tới khu mua sắm không? ",
+                "Biết chứ. Tôi từng làm việc ở đó. Đi thẳng khoảng một dặm rổi rẽ trái chỗ đèn xanh đỏ. Khu mua sắm ở bên tay phải. ",
+                "Bạn có biết địa chỉ không? ",
+                "Vâng, địa chỉ là 541 đường Main.",
+                "Bạn có thể viết ra giấy cho tôi được không?",
+                "Không thành vấn để.",
+                "Tôi đi theo đại lộ Highland có nhanh hơn không?",
+                "Không, lối đó lâu hơn. Có nhiều đèn đỏ hơn trên đường đó.",
+                "Tôi nghĩ bạn đúng. Cám ơn."
+            ]
+        },
+        {
+            "id": "e6f0808e-7aa2-4e4d-bfea-51ee15aaee89",
+            "conversation": [
+                "Môn thể thao yêu thích của bạn là gì?",
+                "Tôi thích bóng rổ. Tôi xem các trận đấu trên TV mọi lúc.",
+                "Ai là đội yêu thích của bạn?",
+                "Boson Celtics.",
+                "Họ có thực sự tốt trong năm nay không?",
+                "Vâng. Bạn có thích họ không?",
+                "Vâng. Mọi người ở đây cũng vậy.",
+                "Bạn có nghĩ rằng họ sẽ giành chức vô địch năm nay không?",
+                "Cũng có thể. Họ có một số cầu thủ thực sự giỏi.",
+                "Bạn đã xem trận đấu tối qua?",
+                "Một chút, không phải toàn bộ. Tôi đã xem nửa sau và tôi thấy một số điểm nổi bật trên mạng.",
+                "Đó là một trò chơi tuyệt vời, phải không?",
+                "Vâng. Bạn có biết ai là người họ chơi tối mai không?",
+                "Tôi nghĩ họ đã chơi LA.",
+                "Đó sẽ là một trận đấu khó khăn. LA có một đội ngũ tốt."
+            ]
+        },
+        {
+            "id": "819f25ca-a262-44f6-8ef4-77157b237f53",
+            "conversation": [
+                "Hôm nay ngày mấy?",
+                "Mùng năm tháng bảy.",
+                "Khi nào bạn đi nghỉ mát?",
+                "Tôi sẽ đi vào chủ nhật. Chúng tôi sẽ đi Canada.",
+                "Vậy hả? Ngày kia? Như vậy rất sớm.",
+                "Vâng tôi biết.",
+                "Bạn sẽ ở đó bao lâu?",
+                "Khoảng 2 tuẩn.",
+                "Khi nào bạn trở về?",
+                "Tôi sẽ trở về vào ngày 17. ",
+                "Tốt. Chúc bạn có một chuyến đi vui vẻ."
+            ]
+        },
+        {
+            "id": "eb0d513f-0756-4dca-8e07-5bc7cb6ecbd9",
+            "conversation": [
+                "Joseph, người phụ nữ đó là ai vậy?",
+                "Đó là Susan.",
+                "Cô ta làm nghề gì?",
+                "Cô ta là luật sư.",
+                "Cô ta có phải là người Mỹ không?",
+                "Không, nhưng cô ta nói tiếng Anh lưu loát.",
+                "Cô ta rất cao. Bạn có quen cô ta không?",
+                "Có, tôi có quen cô ta. Chúng tôi là bạn. ",
+                "Còn người đàn ông đứng cạnh cô ta à ai?",
+                "Người đàn ông nào?",
+                "NgườI đàn ông thấp phía bên trái cô ta, Tên anh ta là gì?",
+                "Ô, đó là Matt.",
+                "Anh ta thực sự đẹp trai.",
+                "Vâng.",
+                "Bạn có quen anh ta không?",
+                "Tôi không quen anh ta, nhưng tôi nghĩ em gái tôi có quen.",
+                "Anh ta có gia đình chưa?",
+                "Có, anh ta có gia đình. ",
+                "Bây giờ tôi nhớ rồi. Tôi đã gặp anh ta trước đây. "
+            ]
+        },
+        {
+            "id": "bf7f8c3e-254d-44c5-a5ee-aae89ca78107",
+            "conversation": [
+                "Brian, bạn biết nói tiếng Anh không? ",
+                "Có.",
+                "Bạn đã học ở đâu?",
+                "Tôi học ở đại học. ",
+                "Bạn nói giỏi lắm. ",
+                "Cám ơn.",
+                "Bạn đã ở Mỹ bao lâu rồi?",
+                "3 tuần.",
+                "Vợ bạn có đi với bạn không?",
+                "Có, cô ấy vừa tới đây hôm qua.",
+                "Trước đây bạn có tới Califoria chưa?",
+                "Chưa, tôi chưa bao giờ tới đó.",
+                "Bạn đã từng tới Las Vegas chưa?",
+                "Có. Tôi đã tới đó một lần khi đi công việc."
+            ]
+        },
+        {
+            "id": "9be5f2d4-871d-497d-a2bc-4df27f3052d2",
+            "conversation": [
+                "Jeff, tối sắp đi siêu thị. Bạn có muốn đi với tôi không?",
+                "Tôi nghĩ giờ này siêu thị đóng cửa rồi.",
+                "Ô. Nó đóng cửa lúc mấy giờ?",
+                "Nó đóng cửa lúc 7 giờ vào chủ nhật ",
+                "Tệ quá. ",
+                "Đừng lo, chúng ta có thể đi vào sáng mai. Nó mở cửa lúc 8 giờ.",
+                "Thôi được. Bây giờ bạn muốn làm gì?",
+                "Chúng ta hãy đi dạo nửa tiếng. Em gái tôi sẽ tới đây khoảng 8:30 tối và rồi tất cả chúng ta có thể đi ra ngoài ăn tối.",
+                "Cô ta sống ở đâu? ",
+                "Cô ta sống ở San Francisco.",
+                "Cô ta đã sống ở đó bao lâu rồi?",
+                "Tôi nghĩ cô ta đã sống ở đó khoảng 10 năm. ",
+                "Đó là một quãng thời gian dài. Trước đó cô ta sống ở đâu?",
+                "San Diego"
+            ]
+        },
+        {
+            "id": "57dbc873-081d-4ed2-bd55-bd3b56087c58",
+            "conversation": [
+                "Charles, bạn có con không?",
+                "Có.",
+                "Bạn có mấy đứa con? ",
+                "Tôi có hai đứa. Một trai một gái.",
+                "Tên chúng nó là gì?",
+                "Jack và Stephanie.",
+                "Chúng nó mấy tuổi? ",
+                "Stephanie 18 và lack 24. ",
+                "Chúng nó còn đi học không? ",
+                "Stephanie còn đi học. Cô ta đi học đại học Ở Washington và Jack làm việc ở Florida.",
+                "Stephanie học gì?",
+                "Cô ta học tiếng Anh. ",
+                "Bây giờ cô ta có đây không? ",
+                "Không, cô ra đang ở trường."
+            ]
+        },
+        {
+            "id": "648cc30c-2525-4021-a13e-084747ab89c2",
+            "conversation": [
+                "William, bạn có thích học tiếng Anh không?",
+                "Tôi thích học tiếng Anh, và tôi có thể đọc khá, nhưng nói có thể khó khăn.",
+                "Không tệ như vậy đâu. Nếu bạn nói chuyện với những người bạn Mỹ của bạn mỗi ngày, bạn sẽ học nhanh.",
+                "Tôi có thể hỏi bạn một câu hỏi được không?",
+                "Dĩ nhiên, bạn muốn biết điều gì? ",
+                "Tôi có quyển sách học trong lớp ở đây. Bạn phát âm chữ này như thế nào?",
+                "Laptop",
+                "Rất tiếc, tôi không hiểu. Như vậy có nghĩa gì?",
+                "Laptop là một loại máy tính bạn có thể mang theo cùng với bạn. Bạn hiểu không?.",
+                "Vâng, tôi nghĩ vậy. Bạn có thể phát âm lại lần nữa được không?",
+                "Laptop",
+                "Laptop. Tôi phát âm như vậy có đúng không?",
+                "Đúng rồi. Tốt lắm.",
+                "Cám ơn. Còn chữ này. Bạn phát âm chữ này như thế nào? ",
+                "Chữ đó phát âm là \"kitchen\". ",
+                "Cám ơn rất nhiều. Bạn thực là một thầy giáo giỏi. "
+            ]
+        },
+        {
+            "id": "2a55d99e-ffde-4063-9f49-c7a65d7e02b0",
+            "conversation": [
+                "Hê. Mọi việc thế nào?",
+                "Không tốt. Tôi mất ví rồi.",
+                "Ô, tệ quá. Nó bị đánh cắp hả?",
+                "Không, tôi nghĩ nó bị rơi ra khỏi túi khi tôi ngồi trong tắc xi. ",
+                "Tôi có thể làm điều gì không?",
+                "Tôi có thể mượn một ít tiền được không?",
+                "Dĩ nhiên. Bạn cần bao nhiêu?",
+                "Khoảng 50 đô. ",
+                "Không có vấn để gì? ",
+                "Cám ơn. Tôi sẽ trả lại bạn vào thứ sáu.",
+                "Như vậy tốt rồi. Tiền đây.",
+                "Bạn sẽ làm gì bây giờ. ",
+                "Tôi sẽ mua vài cuốn sách rồi tôi sẽ đi tới cây xăng.",
+                "Nếu bạn chờ một chút tôi có thể đi với bạn.",
+                "Được. Tôi sẽ chờ bạn."
+            ]
+        },
+        {
+            "id": "19bd9702-eb45-4db9-9eeb-8fe28be2355c",
+            "conversation": [
+                "Linda.",
+                "Xin chờ một chút.",
+                "Được.",
+                "A lô.",
+                "Chào James, Linda đây.",
+                "Chào Linda. ",
+                "Bạn đang làm gì vậy.",
+                "Tôi đang làm việc. ",
+                "Bạn có bận không?",
+                "Vâng, công việc ở đây bận rộn cả ngày.",
+                "Mấy giờ bạn nghỉ làm việc?",
+                "8:30 tối.",
+                "Được. Hẹn nói chuyện với bạn sau.",
+                "Bái bai. "
+            ]
+        },
+        {
+            "id": "843a1d2f-bd20-4646-8ae4-fe3e1c8f0f9d",
+            "conversation": [
+                "David, dạo gần đây bạn làm gì? ",
+                "Tuần trước tôi đi du lịch với gia đình.",
+                "Vậy hả? Các bạn đi đâu?",
+                "Chúng tôi đi Âu Châu.",
+                "Các bạn đi thăm những thành phố nào?",
+                "Luân Đôn, Pa ri và một vài thành phố nhỏ hơn.",
+                "Các bạn có đi Bá Linh không?",
+                "Không, chúng tôi không đi đến đó. Tôi muốn đi đến đó lần tới. ",
+                "Tôi nghĩ mùa hè là thời điểm tốt để thăm Bá Linh. Đó là một nơi đẹp và dân chúng rất đáng yêu.",
+                "Tôi đã nghe như vậy. ",
+                "Tôi đến đó năm ngoái. Nếu bạn muốn tôi sẽ cho bạn một số thông tin tôi có về thành phố.",
+                "Cám ơn."
+            ]
+        },
+        {
+            "id": "91d8ebfb-9a82-4b2f-b316-8fdd1bbd0482",
+            "conversation": [
+                "Sarah, bạn đã làm gì ngày hôm nay?",
+                "Tôi đi mua sắm. ",
+                "Bạn đã mua gì không? ",
+                "Có, tôi mua một vài món.",
+                "Bạn mua gì? ",
+                "Tôi mua cái áo choàng này. Bạn thích nó không?",
+                "Vâng, tôi thích nó lắm. Nó rất đẹp. Bạn mua nó ở đâu?",
+                "Ở khu mua sắm trên đường thứ 5.",
+                "Nó có đắt không? ",
+                "Không, nó không đắt. Nó giảm giá chỉ còn 20 đô.",
+                "Rẻ đấy. ",
+                "Tối biết. Nó rất đáng giá.",
+                "Tôi không nghĩ là bạn cần mặc nó ngay đâu. Trời rất nóng dạo gần đây."
+            ]
+        },
+        {
+            "id": "1a7b3e29-8279-4657-beed-1c761229ab3d",
+            "conversation": [
+                "Chào Liz, bạn có đang làm việc trên trang web của bạn không?",
+                "Không, tôi vẫn đang đợi bạn gửi cho tôi tệp hình ảnh đó cho trang chủ?",
+                "Bạn vẫn chưa nhận được nó? Tôi đã gửi nó cho bạn hơn một giờ trước.",
+                "Để tôi kiểm tra. Nó sẽ mất một và giây vì tôi phải khởi động máy tính của mình.",
+                "Được. Bạn hiểu chứ?",
+                "Một giây. Tôi chỉ cần mở trình duyệt web và kiểm tra tài khoản hotmail của mình."
+            ]
+        },
+        {
+            "id": "4af33c01-449f-49a2-925b-da02ea17851b",
+            "conversation": [
+                "Paul, bạn thích nghe loại nhạc nào?",
+                "Mọi thể loại, nhưng phần lớn là pop, rốc và cổ diển. Tại sao bạn hỏi? ",
+                "Tôi có về để đi xem một buổi trình diễn. Bạn muốn đi với tôi không? ",
+                "Loại nhạc gì vậy? ",
+                "Pop. Ca sĩ Mariah Carey. ",
+                "Khi nào vậy?",
+                "8 giờ tối mai. ",
+                "Vâng, tôi thích đi. Bạn có nghĩ rằng chúng ta nên ăn tối trước không?",
+                "Vâng, đó là ý kiến hay.",
+                "Chúng ta hãy ăn ở nhà hàng đối diện với căn hộ của tôi phía bên kia đường.",
+                "Ô, tôi nghĩ tôi biết nơi bạn nói rồi. Chúng ta đã ăn ở đó hồi tháng trước phải không?",
+                "Đúng rồi. Bạn có trí nhớ tốt đó. "
+            ]
+        },
+        {
+            "id": "a1ea865c-cddf-46f5-b566-2f9c7a892363",
+            "conversation": [
+                "Lisa, bạn có muốn đi thư viện với tôi không?",
+                "Được, bạn có nghĩ rằng chúng ta có thể đi mua một tờ báo trước không? ",
+                "Được chứ. Chúng ta sẽ đi mua báo trước rồi chúng ta đi thư viện. ",
+                "Chúng ta sẽ đi bộ hay đi xe? ",
+                "Thời tiết hôm nay rất đẹp. Chúng ta đi bộ đi.",
+                "Thời tiết đẹp ngay lúc này, nhưng tôi nghĩ trời có thể mưa chiểu nay.",
+                "Được thôi, vậy thì chúng ta hãy mang theo dù.",
+                "Không, anh ấy còn đang ngủ.",
+                "Ôi, 10 giờ sáng rổi. Chắc chắn là tối hôm qua anh ta đã thức khuya lắm.",
+                "Vâng, mãi tới 12 giờ đêm anh ấy mới về nhà.",
+                "Tôi hy vọng anh ấy có thể đến sau.",
+                "Tôi cũng hy vọng vậy. Tôi sẽ gọi anh ấy khi chúng ta tới đó. ",
+                "Từ đây chúng ta đi thư viện lối nào? ",
+                "Đi thẳng xuống con đường này phía bên trái, bên cạnh viện bảo tàng. Mất khoảng 10 phút. "
+            ]
+        },
+        {
+            "id": "02de03a3-b1e3-40ea-95ae-4fbe7126ba4d",
+            "conversation": [
+                "Chào Melissa, bạn sẽ về nhà cuối tuần này không?",
+                "Không, cuối tuần này thì không. Tôi có nhiều việc để làm quá.",
+                "Bố mẹ bạn sống ở đâu?",
+                "Bố tôi sống ở Washington DC. ",
+                "Còn mẹ bạn? ",
+                "Mẹ tôi mất cách đây hai năm rồi.",
+                "Ô, tôi rất tiếc nghe như vậy. Bố bạn còn đi làm không?",
+                "Không, ông ấy về hưu rồi.",
+                "Bạn có họ hàng ở đây không? ",
+                "Có, hai người trong số anh chị em họ của tôi sống ở đây và cô chú tôi sống cách đây khoảng 30 dặm.",
+                "Bạn có anh chị em gì không?",
+                "Có, tôi có 2 người anh sống ở New York và một người chị sống ở Boston.",
+                "Bạn có thường gặp họ không? ",
+                "Không được nhiều như tôi muốn.Thường chỉ vào những ngày nghỉ như Lễ Tạ Ơn và Giáng sinh. "
+            ]
+        },
+        {
+            "id": "e0e2d4d3-01cb-4a18-ba5b-4e930f4d6de4",
+            "conversation": [
+                "Trong tuần chị thường làm gì?",
+                "Buổi sáng tôi đi làm. Tôi về nhà lúc năm giờ chiều. Buổi tối tôi thỉnh thoảng đi chơi với bạn.",
+                "Còn cuối tuần?",
+                "Tôi thường dậy trễ và thức khuya. Thỉnh thoáng tôi đạp xe đạp quanh hồ. "
+            ]
+        },
+        {
+            "id": "53a88be1-b719-4b40-b5ed-baa00848484d",
+            "conversation": [
+                "Anh có thích xem ti vi không? ",
+                "Tôi ít khi xem ti vi. Tôi thích đọc sách và nghe nhạc. ",
+                "Cuối tuần anh có thỉnh thoảng đi bơi không? ",
+                "Không bao giờ. Tôi không biết bơi. Nhưng tôi muốn học bơi."
+            ]
+        },
+        {
+            "id": "ff21670b-1d0b-4e0b-8ff3-8f12476660ad",
+            "conversation": [
+                "Tôi bị bệnh gì vậy, thưa Bác sĩ?",
+                "Anh bị căng thẳng. ",
+                "Tôi có nên uống thuốc không? ",
+                "Không, nhưng anh nên nghỉ ngơi nhiều. "
+            ]
+        },
+        {
+            "id": "4c26a5b4-59c6-4805-96a0-4a3f1f84f871",
+            "conversation": [
+                "Tôi muốn mở một tài khoản tiết kiệm. ",
+                "Anh có đem theo giấy tờ tùy thân không? ",
+                "Tôi có thẻ cư trú và hộ chiếu. ",
+                "Tốt lắm. Bây giờ xin anh điền và ký vào mẫu đơn này. "
+            ]
+        },
+        {
+            "id": "d51f50c6-7853-4a53-a02d-5fa243de0fec",
+            "conversation": [
+                "Tôi phải điền mấy mẫu đơn mới xong thủ tục? ",
+                "Hai mẫu đơn thôi. ",
+                "Tốt lắm. ",
+                "Đây là thẻ rút tiền mặt của anh. Bây giờ xin anh tự chọn mã số cá nhân trên bàn phím này. ",
+                "Tôi nên chọn mấy số mới an toàn? ",
+                "Sáu số cũng được rồi. "
+            ]
+        },
+        {
+            "id": "e3cf04d5-4814-414f-af45-32287700c8d0",
+            "conversation": [
+                "Tôi muốn gửi bốn trăm đô vào tài khoản tiết kiệm. ",
+                "Chị có đem theo giấy tờ tùy thân không? ",
+                "Xin lỗi anh. Tôi quên đem theo giấy tờ tùy thân. Có cách nào anh giúp tôi được không? ",
+                "Chị có thể nói chuyện với giám đốc quản lý ngân hàng. "
+            ]
+        },
+        {
+            "id": "ed963c1d-9b1a-4f39-a2a7-ce7a8d5b150c",
+            "conversation": [
+                "Hối suất hôm nay là bao nhiêu? ",
+                "Hai mươi bốn ngàn đồng cho một đô. ",
+                "Tôi muốn đổi hai trăm đô. ",
+                "Chị có thẻ rút tiền mặt không? ",
+                "Xin lỗi anh. Tôi quên mang thẻ, nhưng tôi có hộ chiếu. ",
+                "Tốt lắm. Bây giờ xin chị điền vào mẫu đơn này ... Dạ đây. Xin chị đếm lại tiền xem có đủ chưa. ",
+                "Tốt lắm. Đủ cả. Cho tôi xin biên lai. "
+            ]
+        },
+        {
+            "id": "23da9872-f253-4b8b-a086-9dd9953cf594",
+            "conversation": [
+                "Chào Michael, tôi mệt quá. Bạn có phiền nếu lái xe một lúc không?",
+                "Tôi rất lấy làm tiếc, tôi muốn lắm nhưng tôi không biết lái xe.",
+                "Có thật không? Bạn không có giấy phép? Tôi nghĩ mọi người đều có giấy phép.",
+                "Không, tôi sống ở thành phố từ trước giờ và khi tôi ở nhà, tôi thường đi tàu điện ngầm hoặc xe buýt.",
+                "Tôi hiểu rồi. Bạn có nghĩ rằng bạn sẽ học lái xe trong tương lai không?",
+                "Vâng. Tôi dự định mua một chiếc xe vào năm tới. Tôi nghĩ bạn cần một cái ở Mỹ.",
+                "Thật ra, bây giờ tôi cũng nghĩ về nó, rất nhiều người ở các thành phố ở đây cũng đi xe buýt.",
+                "Chà, tôi thích tự đi lại hơn. Tôi đã ở đây được vài tháng mà tôi cảm thấy như mình chưa biết gì cả.",
+                "Bạn sẽ học lái xe như thế nào? Bạn có muốn tôi dạy cho bạn?",
+                "Không, tôi không muốn phiền bạn. Tôi đã đăng ký một lớp học gần nhà. Nó bắt đầu vào tháng tới."
+            ]
+        },
+        {
+            "id": "5f70d716-c760-40e2-aa10-0b0c37063771",
+            "conversation": [
+                "Chào anh. Tôi có thể giúp gì cho anh?",
+                "Vâng. Tôi muốn mua 1 chiếc đài",
+                "Tôi thấy chiếc đài này tốt đấy. Nó có giá 200 ngàn đồng.",
+                "200 ngàn ư? Đắt thật đấy",
+                "Nhưng chất lượng của nó rất tốt.",
+                "Để tôi thử xem sao. Được rồi. Tôi sẽ lấy nó."
+            ]
+        },
+        {
+            "id": "b47c7b8a-16c6-45be-b57c-c491dd56fb17",
+            "conversation": [
+                "Tôi có thể giúp gì cho chị không?",
+                "Tôi muốn mua chiếc áo sơ mi.",
+                "Chị mặc cỡ nào?",
+                "Cỡ S.",
+                "Cỡ đó đây thưa chị.",
+                "Tôi có thể mặc thử chứ?",
+                "Tất nhiên. Phòng thử đồ ở đằng kia ạ."
+            ]
+        },
+        {
+            "id": "325af3f1-80ad-4cab-bfa9-f572568b4e09",
+            "conversation": [
+                "Tôi giúp được gì cho ông?",
+                "Vâng. Có mấy vị khách muốn tôi đưa đi tham quan thành phố. Cô làm ơn giới thiệu cho tôi những danh thắng ở đây được không? ",
+                "Vâng. Ông muốn đi tới những nơi nào ạ?",
+                "Bảo tàng mỹ thuật. Nó cách xa đây không cô?",
+                "Cũng không xa lắm. Đi bộ tới đó mất 20 phút thôi mà.",
+                "Cô chỉ đường giúp tôi nhé?",
+                "Ông cứ đi theo đường này, tới ngã 3 rẽ phái là đến.",
+                "Cảm ơn cô. Ngày mai chúng tôi định tới thăm Đền Ngọc Sơn. Nếu đi xe buýt thì mất bao lâu?",
+                "Ông đi xe buýt số 9 mất 40 phút.",
+                "Cô cho tôi hỏi luôn, ở gân đây có cửa hàng lưu niệm nào không?",
+                "Có, thưa ông. Cạnh chợ hoa quả có 1 khu bán đồ thủ công. Tôi tin chắc ông sẽ mua được những món đồ như ý.",
+                "Cảm ơn cô rất nhiều.",
+                "Không có gì."
+            ]
+        },
+        {
+            "id": "266949e1-9e73-4701-82d3-6b9fa8ab415e",
+            "conversation": [
+                "Xin chào! Kì nghỉ của cậu có vui không?",
+                "Rất vui. Mình tới Động Phong Nha cùng bạn gái",
+                "Ở đó có nhiều thắng cảnh đẹp không?",
+                "Có khá nhiều cảnh đẹp. Bọn mình chụp được rất nhiều ảnh",
+                "Các cậu còn làm gì ở đó nữa?",
+                "Bọn mình mua rất nhiều đặc sản của Quảng Bình. Kỳ nghỉ hết sức thú vị. Khi nào rảnh cậu nên tới đó tham quan ",
+                "Nhất định mình sẽ đi"
+            ]
+        },
+        {
+            "id": "3d4f1e13-1bd7-48fe-9015-6593e4001494",
+            "conversation": [
+                "Tối qua anh ngủ có ngon không?",
+                "Cũng ổn. Kế hoạch hôm nay của chúng ta như thế nào nhỉ?",
+                "Tôi muốn đưa anh đi tham quan 1 ngày ở Đà Lạt. Ý anh thế nào?",
+                "Rất tuyệt. Tối qua tôi đã mơ về chuyến du ngoạn ở Đà Lạt rồi.",
+                "Thế thì tốt. Chúng ta xuất phát nhé. "
+            ]
+        },
+        {
+            "id": "dd354fe5-8962-47ad-98b2-3a6c3d427669",
+            "conversation": [
+                "Xin chào ông. Ông cần gì ạ? ",
+                "À, tháng sau tôi sẽ được nghỉ làm vài ngày và tôi đang nghĩ đến chuyện đi Úc. ",
+                "Nghe có uẻ tuyệt quá. Thời gian nghỉ của ông là bao lâu?",
+                "Chỉ một tuần thôi. Ngày đi làm cuối cùng của tôi là 26 tháng 7 và tôi quay về vào ngày 5 tháng 8.",
+                "Được đây là quyển sách chúng tôi quảng cáo về Sydney. Xin hãy xem qua liệu có khách sạn này ông thích không?",
+                "Ồ! Khách sạn này thì tốt đây, khách sạn Four Seasons. Nó đắt nhưng tôi nghe nói là nó rất đẹp.",
+                "Vâng, nó là một khách sạn cao cấp. Tôi chắc chắn rằng ông sẽ thích ở đó. Ông có muốn tôi đặt phòng trước cho ông bây giờ không, thưa ông? ",
+                "Vâng, xin vui lòng."
+            ]
+        },
+        {
+            "id": "54a59345-89ce-4416-8f0b-d8696ba25758",
+            "conversation": [
+                "Tôi cần lấy một số thông tin cá nhân. Họ tên ông là gì?",
+                "Martin Andrew White",
+                "Còn địa chỉ của ông?",
+                "Số 11, phố Charoen Nakhon, Khlong San, Băng Cốc.",
+                "Và số điện thoại của ông?",
+                "0-2-6-2-4 9-7-3-4",
+                "Ông có số điện thoại để nếu cần tôi có thể gọi điện cho ông vào ban ngày không?",
+                "A há... 0-2 7-7-7 1-1-1-2.",
+                "Vâng, được rồi. Ông sẽ đi du lịch một mình phải không, ông White?",
+                "Vâng, chỉ một mình tôi.",
+                "Ông làm việc xong vào thứ sáu, ngày 26. Vậy tôi sẽ cố găng đặt vé cho ông trên chuyến bay vào ngày kế tiếp nhé?",
+                "Vâng. Và chuyến bay khứ hồi vào thứ bảy, ngày 3 tháng 8."
+            ]
+        },
+        {
+            "id": "59aa156d-cb08-4ef0-a6e2-dac07c546fbc",
+            "conversation": [
+                "Để tôi kiểm tra xem còn vé không. Có chỗ ngồi trên chuyến bay của hãng hàng không Qantas này, nhưng sẽ có quá cảnh ba tiếng ở Singapore.",
+                "Tôi có thể đi chuyến bay thẳng nào không?",
+                "Có, có chuyến bay của hãng hàng không Malaysia. Chuyến bay đó khởi hành lúc 7 giờ sáng thứ bảy và đến Sydney lúc 6 giờ tối giờ địa phương.",
+                "Nghe có vẻ hay hơn nhưng nó hơi lâu hơn là tôi nghĩ.",
+                "Vâng, đó là chuyến bay dài tám tiếng. Xin đừng quên sự chênh lệch về múi giờ. Tất cả các giờ được nêu đề là giờ địa phương.",
+                "Ồ, vâng, đúng thế. Giờ ở đó trước giờ của chúng ta ba tiếng phải không? Xin cho tôi những chi tiết vể chuyến bay khứ hồi.",
+                "Được ạ. Chuyến bay đó khởi hành lúc 6 giờ tối và đến Băng Cốc lúc 11 giờ 15 vào cùng đêm đó. Tôi sẽ đặt chỗ cho ông nhé?",
+                "Vâng, xin vui lòng. "
+            ]
+        },
+        {
+            "id": "d844f47a-0748-4980-a9f4-f388756ff3d6",
+            "conversation": [
+                "Xin chào. Ông cần gì ạ, thưa ông?",
+                "Vâng, tôi muốn đặt vé đi Hồng Kông vào ngày 8 tháng 8, tức là ngày kia đấy.",
+                "Xin chờ một lát. Tôi sẽ kiểm tra cho ông... Tôi rất tiếc, các chuyến bay của chúng tôi đều đã đặt kín chỗ vào ngày đó. Chuyến bay kế tiếp còn có vé khởi hành lúc 2 giờ chiều, thứ năm, ngày 9 tháng tám. Tôi đặt chỗ cho ông nhé?",
+                "Vâng. Vui lòng ghi tên tôi vào danh sách chờ của ngày 8 luôn nhé? ",
+                "Vâng, thưa ông. Vui lòng cho tôi biết tên và số điện thoại của ông. Tôi sẽ thông báo cho ông nếu có người hủy vé.",
+                "Cảm ơn nhiều. Tên tôi là Michael Lý. Cô có thể liên lạc với tôi ở số máy 8725436 tại văn phòng của tôi hoặc số máy 5678942 tại nhà.",
+                "Cảm ơn ông."
+            ]
+        },
+        {
+            "id": "17f89d90-9509-4832-a1d6-6d23d43e0625",
+            "conversation": [
+                "Bây giờ chúng tôi sẽ đặt phòng cho ông ở khách sạn Four Seasons. Ông muốn phòng đơn hay phòng đôi?",
+                "Ồ, phòng đơn được rồi, cảm ơn. Nó có nhìn ra cảng không?",
+                "Ồ, có, tất cả các phòng đều nhìn ra cảng. Họ có một phòng trống. Tôi sẽ xác nhận việc đặt phòng đó nhé? ",
+                "Vâng, xin cứ đặt đi. ",
+                "Vâng. Vậy là bây giờ ông có sẵn một phòng ở khách sạn Four Seasons từ thứ bảy, ngày 27 tháng 7 đến thứ bảy, ngày 3 tháng 8.",
+                "Tuyệt lắm. Tôi có thể thanh toán bằng thẻ tín dụng không? ",
+                "Được chứ. Vậy là 62000 bạt, kể cả tiền vé máy bay.",
+                "Được. Thẻ tín dụng của tôi đây. Tôi có thể lấy vé khi nào? ",
+                "Vé sẽ có trong vài ngày nữa. Tôi có thể gọi đến cho ông ở cơ quan nếu ông muốn thế.",
+                "Cảm ơn rất nhiều. "
+            ]
+        },
+        {
+            "id": "c14bd357-1f49-446a-8751-c01631dee9f8",
+            "conversation": [
+                "Thomas, Tiếng Anh của bạn tốt thật đấy. Bạn đã học nó như thế nào?",
+                "Chà, ở nước tôi ai cũng học Tiếng Anh từ năm lớp một. Tôi đã tham gia các khóa học Tiếng Anh",
+                "Wow, thật thú vị. Tôi nhớ khi chúng ta cùng đi chơi và đến thăm gia đình. Có vẻ như có rất nhiều người không thể nói chuyện với tôi bằng tiếng Anh.",
+                "Ồ, đó là vì họ không nói tiếng Anh nhiều. A: But they speak it in school, right? Maybe they just didn’t like me so they didn’twant to talk to me. Nhưng họ nói nó ở trường, phải không? Có lẽ họ không thích tôi  nên họ đã không nói chuyện với tôi.",
+                "Tôi hiểu rồi. Tôi nghĩ rằng có rất nhiều người Mỹ dạy tiếng Anh ở nước bạn.",
+                "Vâng đó là sự thật. Có lẽ nhiều gấp đôi so với năm năm trước, nhưng chúng chủ yếu ở các thành phố. Gia đình tôi sống ở quê.",
+                "Tôi tự hỏi tại sao cá nhân tôi thích vùng quê hơn thành phố. Nó rất yên tĩnh và yên bình. Nếu tôi được dạy, tôi sẽ muốn dạy ở nông thôn.",
+                "Bạn có nghĩ rằng bạn sẽ muốn dạy ở nông thôn một ngày nào đó? Tôi biết các trường học xung quanh thị trấn của tôi đang tìm kiếm giáo viên, vì vậy nếu bạn muốn, tôi có thể gọi cho họ và nhận thêm thông tin.",
+                "Không, tôi không nghĩ như vậy. Tôi sẽ cần ở lại đó một năm, và tôi không nghĩ rằng tôi không thể dành nhiều thời gian cho công việc.",
+                "Vâng, nếu bạn đổi ý, hãy cho tôi biết. Tôi nghĩ bạn sẽ là một giáo viên thực sự tuyệt vời."
+            ]
+        },
+        {
+            "id": "7d10c7b7-6b4b-4178-87a1-a76b4b5dcf16",
+            "conversation": [
+                "Khách sạn Imperial đây. Tôi có thể giúp gì cho ông ạ?",
+                "Tôi muốn đặt một phòng cao cấp từ ngày 25 tháng 6 đến ngày 2 tháng 7.",
+                "Ông muốn phòng loại tiêu chuẩn, loại cao cấp, loại sang hay loại đặc biệt?",
+                "Chính xác loại phòng tiêu chuẩn thì như thế nào?",
+                "Phòng tiêu chuẩn ở khách sạn của chúng tôi có một phòng ngủ, phòng khách và phòng tắm.",
+                "Các loại phòng tiêu chuẩn không có nhà bếp nhỏ à?",
+                "Dạ không, nhưng phòng loại cao cấp thì có.",
+                "Tôi nghĩ phòng loại sang thì lớn hơn một chút.",
+                "Đúng vậy. Phòng loại sang còn có một quầy rượu rất đẹp.",
+                "Giá mỗi đêm bao nhiêu tính bằng đô la Mỹ?",
+                "480 đô la Mỹ.",
+                "Thế còn phòng đặc biệt thì giá bao nhiêu một đêm?",
+                "1500 đô la Mỹ.",
+                "Phòng đặc biệt có thêm những gì? ",
+                "Trước hết, phải nói phòng đặc biệt của chúng tôi rất cao cấp. Tất cả đồ đạc đều là kiểu thời vua Louis thứ 14.",
+                "Chắc là nó rất rộng. ",
+                "Dạ thưa ông đúng vậy. Phòng đặc biệt có tầng và dưới nhà nằm ở hai tầng trên cùng của khách sạn. Có thể nhìn ra quang cảnh tuyệt đẹp của thành phố.",
+                "Nghe có bẻ hay đấy. ",
+                "Để tôi giữ phòng đặc biệt cho ông nhé, thưa ông?",
+                "Có lẽ vậy. Để tôi bàn với vợ tôi và sẽ gọi lại sau cho anh nhé.",
+                "Cảm ơn ông đã gọi đến, thưa ông.",
+                "Không có gì. Tạm biệt."
+            ]
+        },
+        {
+            "id": "5498bb53-499e-4cf4-92f5-edb22ae4a4b4",
+            "conversation": [
+                "Chào ông. Xin cho tôi xem vé và hộ chiếu của ông?",
+                "Được. Nó đây.",
+                "Cảm ơn ông. Được rồi. Và ông định sẽ đăng ký bao nhiêu va-li",
+                "Chỉ một va-li thôi.",
+                "Và ông đã tự đóng gói túi xách của ông à?",
+                "Vâng, phải.",
+                "Được rồi. Ông có món hàng đồ điện nào không?",
+                "Tôi có một dao cạo điện trong hành lý xách tay của tôi. Như thế có được không?",
+                "Được. Vậy là không có đồ điện nào trong va-li của ông chứ?",
+                "Không.",
+                "Được rồi. Ông muốn ghế ngồi chỗ cửa sổ hay chỗ lối đi?",
+                "Xin cho ghế ngồi chỗ cửa sổ.",
+                "Được. Và xin đợi một chút. Đây là số ghế ngồi của ông và cổng khởi hành. Ông có thể đi ngay đến phòng đợi lên máy bay. Chúc ông chuyến đi vui vẻ.",
+                "Mấy giờ chúng ta sẽ lên máy bay?",
+                "Chúng ta bắt đầu lên máy bay lúc 7 giờ.",
+                "Được rồi. Cảm ơn."
+            ]
+        },
+        {
+            "id": "82296f13-9c0c-4780-82cf-07d9c970b7d1",
+            "conversation": [
+                "Vé và hộ chiếu của chúng tôi đây. Hôm nay chúng tôi sẽ đáp máy bay đến Luân Đôn. ",
+                "Chào mừng ông bà đến với hãng hàng không Anh quốc. Để tôi xem... .Vâng, hộ chiếu của ông bà vẫn còn hiệu lực và vé của ông bà cũng hợp lệ. Ông muốn gửi bao nhiêu kiện hành lý?",
+                "Chỉ có 2 kiện này thôi. ",
+                "Vui lòng để chúng lên cân. Ông có hành lý xách tay không?",
+                "Có, hai cái. Ồ, và cái máy ảnh này nữa. ",
+                "Tốt hơn là ông nên gắn thẻ nhận dạng này vào các kiện hành lý. Ông bà muốn ngồi ở khoang hút thuốc hay khoang không hút thuốc ạ?",
+                "Khoang không hút thuốc. Và vui lòng cho chúng tôi một chỗ cạnh cửa sổ nhé? ",
+                "Để tôi xem nào. Ô, còn hai chỗ. Được rồi, ông Málone ạ. Ông bà đã xong thủ tục. Tôi đã bấm hai phiếu nhận lại hành lý của ông bà vào vé khứ hồi rồi đó.",
+                "Hai cái này ư? ",
+                "Đúng vậy. Và đây là những thẻ lên máy bay của ông bà. Ghế của ông bà là 25A uà 25B. Chuyến bay của ông bà đúng giờ và sẽ khởi hành ở cổng số 8. Đừng quên đóng tiền thuế sân bay trước khi lên máy bay. Chúc ông bà có chuyến bay vui vẻ.",
+                "Cảm ơn. "
+            ]
+        },
+        {
+            "id": "7eae545a-752c-4959-9e04-9036f1540f6f",
+            "conversation": [
+                "Dorothy, kế hoạch Giáng sinh của bạn là gì vậy?",
+                "À vâng, sắp đến Giáng sinh rồi phải không? Tôi không chắc chắn tôi làm những gì?",
+                "Chà, nếu bạn không có kế hoạch, gia đình bạn có thể ăn tối tại nhà tôi.",
+                "Bạn thật tốt, cảm ơn nhé. Bạn đã mua sắm xong chưa?",
+                "Chưa, tôi vẫn phải làm điều đó. Tôi nghĩ rằng tôi sẽ đi đến trung tâm mua sắm vào cuối tuần này.",
+                "Sẽ rất đông tại trung tâm mua sắm. Bạn nên mua sắm trực tuyến.",
+                "Bạn đúng đấy. Gia đình tôi rất thích đọc sách, vì vậy tôi có thể nhận được tất cả những món quà từ Amazon.com.",
+                "Bạn nghĩ gì bạn sẽ tặng gì cho vợ của bạn?",
+                "Có lẽ là một cuốn tiểu thuyết lãng mạn. Có vẻ như cô ấy luôn đọc một trong những thứ đó.",
+                "Bạn có thể nghĩ rằng bạn nên mua cho cô ấy thứ gì đó đắt hơn một chút, như đồ trang sức hoặc có thể là một máy tính mới?",
+                "Có lẽ bạn nói đúng. Rất khó mua quà tặng. Tôi nghĩ rằng vợ tôi có tất cả mọi thứ. Có lẽ tôi chỉ nên hỏi cô ấy."
+            ]
+        },
+        {
+            "id": "ab96ca3b-6754-443b-a3c5-5bf6bc30f296",
+            "conversation": [
+                "Martin, bạn sẽ bỏ phiếu cho ai?",
+                "Ý bạn là bầu cử tổng thống?",
+                "Vâng",
+                "Tôi chưa chắc chắn.",
+                "Bạn nên chuẩn bị sớm. Cuộc bầu cử vào tháng tới.",
+                "Vâng tôi biết. Tôi nghe về nó mỗi ngày trên các tin tức.",
+                "Tôi sẽ bỏ phiếu cho Obama.",
+                "Tôi nghĩ ông ấy là một lựa chọn tốt, nhưng tôi nghĩ McCain cũng sẽ trở thành một tổng thống tốt.",
+                "Tôi biết. Cả hai đều tốt nên thật khó quyết định. McCain lớn tuổi hơn nhưng ông ta có nhiều kinh nghiệm hơn. Obama dường như có rất nhiều ý tưởng hay, nhưng một số người nói rằng ông muốn tăng thuế.",
+                "Vâng, nó có thể gây nản lòng, nhưng nó rất quan trọng và nó rất thú vị khi xem."
+            ]
+        },
+        {
+            "id": "df2e419b-715f-40c0-afe9-8c919d17cd13",
+            "conversation": [
+                "Bà có muốn đọc báo không, thưa bà? ",
+                "Không. Cảm ơn. ",
+                "Ông có muốn đọc báo không, thưa ông? Ông ơi? Ông à?!!",
+                "Ồ",
+                "Ông có muốn đọc báo không, thưa ông? ",
+                "Vâng, lấy cho tôi tờ Daily Mail. ",
+                "Đây, thưa ông. ",
+                "Cảm ơn cô. Nó sẽ giúp tôi không nghĩ đến cái gì cả. Tôi luôn hơi căng thẳng trước khi bay.",
+                "Ôi nào, hãy cố gắng đừng quá lo lắng. Ông biết đấy, máy bay là phương tiện đi lại an toàn nhất. ",
+                "Ông biết không, chúng tôi cũng có một số phương tiện giải trí trên máy bay dành cho ông nữa. Ông sẽ tìm thấy chương trình phim trong cái túi ở trước mặt ông, tờ tạp chí trên máy bay của chúng tôi.",
+                "Ồ tốt đấy. Một bộ phim hay sẽ giúp tôi thư giãn.",
+                "Các chương trình sẽ bắt đầu ngày sau khi cất cánh. Nếu ông cần tôi lấy cái gì, chỉ cần gọi để được giúp đỡ.",
+                "Khi nào thì bữa ăn tối sẽ được phục vụ? ",
+                "Trong khoảng một tiếng nữa. Chúng tôi có cá, bò bít- tết và phần ăn chay. Ông muốn dùng món nào?",
+                "Xin cho tôi cá. ",
+                "Được, tôi sẽ quay lại sau. Bây giờ, xin hãy thư giãn và thưởng thức chuyển bay nhé. "
+            ]
+        },
+        {
+            "id": "023c700c-dee6-4d6e-9972-5b15ec2a254e",
+            "conversation": [
+                "Máy bay đang cất cánh. ",
+                "Tôi thấy không được khỏe, Mark à. ",
+                "Có vấn đề gì vậy? ",
+                "Bụng tôi có cảm giác khó chịu. Tôi e là tôi sẽ nôn đấy.",
+                "Có lẽ bạn bị say máy bay. Có túi nôn trong túi sau lưng ghế trước mặt bạn đấy. Để tôi giúp bạn. Nào, mở túi ra phòng khi bạn nôn. Tôi sẽ yêu cầu tiếp viên lấy một ít thuốc cho bạn ngay.",
+                "Cảm ơn bạn rất nhiều. Ôi, tôi cảm thấy thật kinh khủng. ",
+                "Chờ một lát. Một khi chúng ta đã ở trên không, bạn sẽ thấy đỡ hơn nhiều. ",
+                "Tôi hy vọng là như vậy. "
+            ]
+        },
+        {
+            "id": "82e349f9-3efc-48b9-a2cc-e37308ae9479",
+            "conversation": [
+                "Thưa ông, ông đã xem danh mục hàng hóa của cửa hàng trên máy bay của chúng tôi chưa?",
+                "Danh mục này à?",
+                "Đúng vậy. Ông có muốn đặt mua hàng miễn thuế nào không?",
+                "Có. Tôi có thể thanh toán bằng thẻ tín dụng không?",
+                "Được ạ. Tất cả các thẻ tín dụng chủ yếu đều được chấp nhận nhưng các món hàng mua không được vượt quá 500 đô la Mỹ.",
+                "Được rồi. Ừm... Tôi muốn mua chai rượu whisky Xcốt này, giá 34 đô la.",
+                "Được ạ, đó là một chai rượu whisky mạch nha Johnnie Walker. Ông có muốn mua gì nữa không, thưa ông?",
+                "Có, tôi muốn mua cặp kính mắt titanium này.",
+                "Vãng, nó giá 145 đô la Mỹ. Như thế đã đủ chưa ạ, thưa ông?",
+                "À, đủ rồi. Những thứ đó thôi. Cảm ơn. ",
+                "Hóa đơn tổng cộng là 179 đô la Mỹ. Xin ông đưa cho tôi thẻ tín dụng của ông.",
+                "A, vâng. Đây này. ",
+                "Cảm ơn ông. Vui lòng đợi trong khi tôi lấy hàng miễn thuế của ông.",
+                "Cảm ơn."
+            ]
+        },
+        {
+            "id": "fc422da0-612d-489b-91cf-62b416da1321",
+            "conversation": [
+                "Chào ông. Xin cho tôi xem hộ chiếu và thẻ nhập cư của ông? ",
+                "Được. Đây ạ. ",
+                "Ông có cái gì cần khai báo không? ",
+                "Không, tôi chỉ có các mặt hàng miễn thuế này mà tôi đã mua trên máy bay. ",
+                "Thế thì được rồi. Chào mừng ông đến nước Úc. Có phải đây là chuyến đi đầu tiên của ông đến đây không?",
+                "Không, tôi đã đi đến đây công tác cách đây vài năm, nhưng lúc đó tôi không ở lại lâu.",
+                "Lần này ông đến đây để công tác hay đi nghỉ? ",
+                "Lần này hoàn toàn là đi nghỉ. ",
+                "Tốt. Ông có định đi du lịch đây đó trong thời gian ông lưu lại đây không? ",
+                "À, tôi chỉ có một tuần thôi, vì thế tôi dự định sẽ ở Sydney thôi. ",
+                "Vâng, nước Úc là một nơi rộng lớn. Ông sẽ cần một tuần mới xem được hết",
+                "Có lẽ lần sau vậy. Lần này, tôi sẽ cố gắng tham quan tất cả những khu du lịch ở Sydney. ",
+                "Tối. Tôi hy vọng ông tận hưởng lần đến này. ",
+                "Cảm ơn. "
+            ]
+        },
+        {
+            "id": "19c6e23b-a275-41aa-928d-034d009a84d4",
+            "conversation": [
+                "Xin lỗi. Tôi vừa mới đến đây và từ nãy đến giờ tôi đang đợi băng chuyền hành lý để lấy va-li của tôi. Tôi nghĩ nó đã bị thất lạc. ",
+                "Không sao, thưa ông, đừng lo chuyện đó. Tôi tin chắc là chúng tôi có thể tìm thấy nó. Ông đã đi chuyến bay nào?",
+                "Số chuyến bay MA 201 đi từ Băng Cốc. ",
+                "Vâng, lẽ ra túi xách của ông nằm trên băng chuyền số 8. ",
+                "Vâng, đây là nơi mà tôi đã chờ nãy giờ nhưng nó không có ở đây. ",
+                "Túi xách của ông ra sao? Ông vui lòng miêu tả nó cho tôi. ",
+                "Có, tôi đã viết tên của tôi trên nhãn. Đó là Martin Andreu White. ",
+                "Tôi sẽ gọi điện ngay để xem liệu tôi có thể tìm thấy nó không. (Alô, trung tâm hả? Vâng. Mã số 17, Martin Andrew White. Vâng) Thưa ông, túi xách của ông đang bị hải quan giữ. Ông có thể đến đó để lấy nó.",
+                "Có chuyện gì sao?",
+                "tin chắc là không có gì đáng lo cả. Họ sẽ giải thích việc đó cho ông ở trạm hải quan. Cứ đi theo hành lang này phía bên trái của ông đấy. ",
+                "Được, cảm ơn anh đã giúp đỡ. ",
+                "Không có gì. "
+            ]
+        },
+        {
+            "id": "fd940c75-ca1c-4e48-a0ec-28fcaab126f8",
+            "conversation": [
+                "Xin lỗi. Va-li của tôi bị lạc và tôi nghe nói là có thể đến lấy nó ở đây. ",
+                "Ông có thể nhận ra túi xách nào là của ông không?",
+                "Vâng, nó là cái màu xanh lá cây này đây. ",
+                "Ông tên gì? ",
+                "Tên tôi là Martin Andrew White. ",
+                "Được, đây là cái túi xách của ông phải không? ",
+                "Vâng, đúng vậy. Có chuyện gì không? ",
+                "Đó chỉ là do con chó đánh hơi của chúng tôi đã ngửi thấy mùi gì đó trong túi xách của ông. Tôi e rằng tôi phải yêu cầu ông mở nó ra cho tôi xem.",
+                "À, đây là các mà con chó đánh hơi của chúng tôi đã phát hiện. Tôi e rằng ông đang mang một gói bánh bích-quy và gói này đã bị bung ra.",
+                "Ồ, tôi quên những cái bánh đó. Chắc là chúng bị bung ra trong chuyến bay. ",
+                "À, tôi không tìm thấy cái gì khác. Vì vậy ông được tự đi.",
+                "Cảm ơn. Tạm biệt. ",
+                "Tạm biệt. "
+            ]
+        },
+        {
+            "id": "fca6a0b6-f125-4d1e-a028-f8ebecd50dfd",
+            "conversation": [
+                "Xin lỗi. Tôi đang tìm đường đi đến trung tâm thành phố. Tôi đón xe buýt ở đâu được nhỉ? ",
+                "Ông có thể đón xe buýt ở ngay bên ngoài. Ông đi qua cửa ra, rẽ trái, trạm xe buýt ở ngay trước mặt ông.",
+                "Vâng. Cảm ơn.",
+                "Và ông định đi đâu vậy?. ",
+                "Tôi định ở khách sạn Four Seasons. ",
+                "Ồ, khách sạn đó gần cảng phải không? ",
+                "Vâng, phải. ",
+                "À, nếu vậy thì ông cần đón xe buýt số 68, đó là chiếc xe buýt màu xanh dương và nó rời trạm xe buýt số 2 ",
+                "Ồ! Tốt. Cảm ơn cô đã giúp đỡ. ",
+                "Không có gì, Tôi mong ông tận hưởng chuyến đến thăm của ông. Tạm biệt.",
+                "Tạm biệt.",
+                "Không có gì."
+            ]
+        },
+        {
+            "id": "ac9f45c9-5603-4412-9cd5-1851a15a6cf8",
+            "conversation": [
+                "Xin chào ông. ",
+                "Xin chào. Tôi muốn làm thủ tục nhận phòng.",
+                "Vâng, thưa ông. Ông có đặt phòng trước không?",
+                "Có, tên là Martin Andrew White.",
+                "Đúng rồi. Ông đã đặt trước một phòng nhìn ra cảng. Xin ông vui lòng kí tên vào sổ đăng kí.",
+                "Thẻ chìa khóa của ông đây. Ông ở phòng 1004. Nó nằm trên tầng 30. Từ đó ông sẽ ngắm rõ cảng.",
+                "Cảm ơn. Tôi có thể kiếm chút gì đó để ăn ở đâu?",
+                "Nhà hàng của chúng tôi ở tầng 3. Bữa ăn tối được phục vụ từ 7 giờ. ",
+                "Tuyệt lắm. Bữa ăn sáng được phục vụ lúc mấy giờ? ",
+                "Bữa ăn sáng được phục vụ từ 6 giờ đến 10 giờ.",
+                "Được rồi. Cám ơn cô đã giúp đỡ.",
+                "Không có gì, thưa ông. Tôi sẽ gọi nhân viên phục vụ đưa ông lên phòng. Tôi mong là ông ở đây vui vẻ."
+            ]
+        },
+        {
+            "id": "537c91f7-fa06-40c1-abda-e9787e763497",
+            "conversation": [
+                "Rượu mà ông đã gọi đây, thưa ông. Ông muốn để nó hả hơi một chút hay tôi rót ra bây giờ?",
+                "Cho tôi một ly bây giờ đi.",
+                "Ông đã sẵn sàng gọi món chưa?",
+                "Rồi. Cho tôi món bò cốt-lết.",
+                "Ông muốn nó được nấu như thế nào?.",
+                "Tái vừa.",
+                "Vâng được. Món đó được dọn kèm với rau theo mùa và ông được chọn khoai tây cả vỏ hay khoai tây chiên. ",
+                "Cho khoai đây cả vỏ. Lâu lắm rồi tôi không ăn khoai tây cả vỏ. ",
+                "Được ạ. Một bò cốt-lết, tái vừa, với rau theo mùa và khoai tây cả vỏ. ",
+                "Vâng. Cảm ơn cô. ",
+                "Thưa ông, mọi thứ đều được chứ ạ? ",
+                "Vâng, bữa ăn rất ngon. Cám ơn cô. ",
+                "Ông dùng tráng miệng nhé? Chúng tôi có phô mai và bánh bích quy, bánh nướng nhân táo tươi và bánh kem sô cô la.",
+                "Vâng, hãy cho tôi bánh kem sô cô la.",
+                "Ông có muốn tôi lấy gì nữa không?",
+                "Có, cho tôi một cà phê sữa.",
+                "Tôi sẽ mang nó cho ông ngay"
+            ]
+        },
+        {
+            "id": "30a3a7cb-e065-4a2f-b2bd-4a773706624c",
+            "conversation": [
+                "Xin lỗi, thưa ông. Đối với thức ăn Trung Quốc, chúng tôi phục vụ món ăn trước và rồi đến món súp. ",
+                "Rất tốt, cảm ơn. ",
+                "Ông có muốn dùng một ít súp hhông? ",
+                "Anh có súp gì vậy?",
+                "Chúng tôi có súp gà xắt lát, súp ba loại thịt xắt lát, súp trong với nấm khô, vân vân. ",
+                "Cho một bát súp ba loại thịt xắt lát. ",
+                "OK. Tôi sẽ mang nó đến cho ông. ",
+                "Anh có món ăn nhẹ nào không? ",
+                "Vâng, chúng tôi có mì xào thập cẩm, bánh hấp nhân đậu nghiền, món ravioli tôm bóc vỏ hấp, vân vân.",
+                "Tốt! Cho mì xào thập cẩm đi. ",
+                "Vâng được... Đây này, thưa ông. Cần gì nữa không ạ?",
+                "Không, cảm ơn. Tôi đã dùng khá đủ rồi. Mang cho tôi hóa đơn đi."
+            ]
+        },
+        {
+            "id": "85fdf977-7b32-4710-aeac-9b7cd10f65a8",
+            "conversation": [
+                "Cho tôi hóa đơn? ",
+                "Được ạ, tôi sẽ lấy cho ông. Ông muốn thanh toán bây giờ hay tôi sẽ tính vào tiền phòng của ông? ",
+                "Tôi muốn thanh toán bây giờ hơn. ",
+                "Tôi sẽ mang hóa đơn lại cho ông. ",
+                "Nào. Vậy là ông đã dùng món bò cốt-lết, một chai rượu vang đỏ địa phương, một bánh kem sô cô la và một tách cà phê. Tổng cộng là 36.74 đô la.",
+                "Tiền phục vụ đã được tính luôn vào chưa?",
+                "Rồi ạ. Số đó bao gồm thuế và 10% phí phục vụ.",
+                "40 đô la đây. Cô cứ giữ luôn tiền thừa.",
+                "Cảm ơn ông rất nhiều.",
+                "Cảm ơn cô. Tạm biệt."
+            ]
+        },
+        {
+            "id": "363ec7d8-e52a-4dd9-926f-c4e04d58a4c9",
+            "conversation": [
+                "Xin lỗi. Tôi có thể gọi đồ uống không?",
+                "Được chứ, ông muốn uống gì ạ?",
+                "Cho tôi bia. Có bia nào được sản xuất ở địa phương không?",
+                "À, chúng tôi có VB, Victoria Bitter, được sản xuất ở Victoria, một bang ở miền nam và chúng tôi có Toey's được sản xuất ở tại New South Wales này.",
+                "Cho tôi một chai Toey's đi. ",
+                "Toey's! Ông muốn uống ly thông thường hay midi?",
+                "'Midi' là gì?",
+                "Chỉ là một cái ly lớn hơn thôi. ",
+                "Vây thì cho tôi midi nhé. ",
+                "Đây ạ.",
+                "Cảm ơn. "
+            ]
+        },
+        {
+            "id": "575a44ae-5c0c-470b-9a09-794ca17210ee",
+            "conversation": [
+                "Ông muốn uống gì vậy? Chúng tôi có rất nhiều loại rượu khác nhau. Ông thích loại nào hơn vậy? ",
+                "Cho tôi một tách brandy với sôđa có đá. ",
+                "Vâng, thưa ông. Còn gì khác nữa không ạ? ",
+                "Anh có loại bia nào?",
+                "Chúng tôi có bia Qingdou, bia Thượng Hải và bia Tienton. Có lẽ chúng quá nhẹ đối uới ông. Ông có muốn dùng thử một loại hơi nặng hơn một chút không? Tôi có thể đề nghị một ly cốc-tai Martini nho không? ",
+                "Tuyệt lắm. ",
+                "Đồ uống của ông đây, thưa ông.",
+                "Ô, được lắm. ... Hôm nay tôi cũng muốn thử một cái gì đó đặc trưng Trung Quốc.",
+                "Ý ông nói một cái gì đó như rượu Mao Đài phải không?",
+                "Anh có cái gì khác hơn Mao Đài ở đây không? ",
+                "Vâng, ở đây chúng tôi có rượu xanh lá tre, rượu vang Tequ, Fenjiu và Xifong.",
+                "Còn gì khác nữa không?",
+                "Vâng. Nếu ông thích một cái gì đó dịu hơn, có rượu gạo Shaoxing. Nó là đặc sản thật sự của Trung Quốc ở miền Nam Trung Quốc.",
+                "Anh cho rằng loại nào là ngon nhất? ",
+                "Tôi cho rằng là cốc-tai Gấu trúc của chúng tôi.",
+                "Cốc-tai Gấu trúc ư? ",
+                "Đúng vậy. Nó là sự pha trộn các thành phần Trung Quốc thật sự.",
+                "Thú vị làm sao! Tôi phải thử nó thôi. "
+            ]
+        },
+        {
+            "id": "ab055787-5ab3-46ea-99b0-67fa8d14e138",
+            "conversation": [
+                "Xin chào, tôi có thể cùng uống với anh không? ",
+                "Vâng, xin mời. ",
+                "Tên tôi là Tony. Còn anh? ",
+                "Tôi là Martin. Rất vui được gặp anh. Anh đến đây đi công tác hay đi nghỉ?",
+                "Đi công tác. Tôi đến đây với một đồng nghiệp của tôi. Ngày mai chúng tôi dự một hội nghị.",
+                "Anh có thời gian để đi ngắm cảnh không? ",
+                "Chỉ chút ít thôi, nhưng chúng tôi thường hay đến đây, vì thế tôi đã đi tham quan được nhiều điểm du lịch ở đây rồi.",
+                "Trước đây tôi cũng đã đến đây công tác, nhưng tôi không ở lâu và không có thời gian để tham quan. Lân này tôi chỉ đến đây đi nghỉ. ",
+                "À, vâng, anh nên tận hưởng kỳ nghỉ này. ",
+                "Vâng, tôi cũng mong thế. ",
+                "Anh đã đến đây khi nào? ",
+                "Đầu buổi chiều này. Còn anh bạn? ",
+                "Tôi chỉ vừa mới đến đây thôi. ",
+                "Anh có dự định ở lâu không? "
+            ]
+        },
+        {
+            "id": "438d0031-f88f-4e08-a446-bd30cbf9eddb",
+            "conversation": [
+                "Vậy anh có thường đi mua sắm trong khi anh ở đây không?",
+                "Tôi cố tránh việc đó, tôi không thích đi mua sắm. Mặc dù vậy, tôi sẽ phải mua vài món quà lưu niệm cho các con của tôi.",
+                "Ở Úc, mua những món quà lưu niệm nào là tốt nhất?",
+                "À, nước Úc nổi tiếng về động vật hoang dã. Có nhiều thứ có hình con kăng-gu-ru uà gấu túi. ",
+                "Còn gì nữa không? ",
+                "Nghệ thuật của thổ dân rất hay. Có nhiều thứ được trang trí bằng nghệ thuật của thổ dân. ",
+                "Vâng. Tôi sẽ để ý cái đó xem. ",
+                "Vậy chắc chắn là có đàn didgeridoo nổi tiếng. ",
+                "Ồ, nhạc khí của thổ dân. Anh đã từng chơi nó trước đây chưa. ",
+                "Rồi, nhìn thấy vậy chứ chơi khó hơn. ",
+                "À, tôi sẽ phải thử chơi nó trong lúc đang ở đây.",
+                "Chúc may mắn! ",
+                "À, tôi e rằng tôi phải đi ngủ bây giờ đây. ",
+                "Tôi cũng nên đi ngủ thôi. Tôi phải làm việc vào sáng mai. ",
+                "Cảm ơn vì đã được bầu bạn cùng anh. Hy vọng được gặp lại anh.",
+                "Có lẽ thế. Chúc anh ngon giấc và ngày mai đi tham quan vui vẻ nhé.",
+                "Cảm ơn anh, nhất định vậy. Chúc ngủ ngon. ",
+                "Chúc ngủ ngon. "
+            ]
+        },
+        {
+            "id": "dade326c-5630-4b98-aac4-f739c7339592",
+            "conversation": [
+                "Xin chào, bộ phận phục vụ phòng đây, ông cần gì ạ?",
+                "Xin chào. Tôi muốn gọi món ăn sáng. ",
+                "Được . Ông muốn dùng gì, thưa ông?",
+                "Cô có loại ngũ cốc nào?",
+                "À, chúng tôi có bánh bột ngô. Chúng tôi có Muesli, Weetbix uà Albran. ",
+                "Vui lòng cho tôi một bát bánh bột ngô. ",
+                "Ông còn dùng gì khác không, thưa ông? ",
+                "Có, cho tôi hai quả trứng chần trên bánh mì nướng.",
+                "Vâng. Vậy là một bát bánh bột ngô và hai quả trứng chần trên bánh mì nướng. Ông có muốn uống gì cùng với bữa ăn sáng không? ",
+                "Có, cho tôi một tách cà phê và nước cam vắt. ",
+                "Vâng, bữa ăn sẽ được đưa đến ông trong mười lăm phút nữa. Hóa đơn sẽ được tính vào tiền phòng của ông. ",
+                "Cám ơn cô. Tạm biệt. ",
+                "Tạm biệt."
+            ]
+        },
+        {
+            "id": "8cb54ca8-1c02-41ed-86e9-78551db8f25f",
+            "conversation": [
+                "Bộ phận phục vụ phòng đây. Ông cẩn gì ạ?",
+                "Vâng. Tôi là Jack Manning ở phòng 752 đây. Tôi muốn gọi hai cái bánh săn-đuých và một bình cà phê lớn. Anh vui lòng đem đến phòng tôi ngay nhé?",
+                "Vâng, thưa ông. Ông có muốn dùng đường và kem với cà phê không ạ? ",
+                "Không, cảm ơn. Cà phê đen được rồi. Và làm ơn pha cà phê thật đậm nhé.",
+                "Vậy là hai bánh săn-đuých và môt bình cà phê lớn. Không đường, không kem, cà phê đen và thật đậm.",
+                "Đúng vậy.",
+                "Tôi sẽ cho người mang chúng lên phòng ông ngay.",
+                "Mời vào.",
+                "Thưa ông Manning, đây là món ăn ông đã gọi.",
+                "Cảm ơn. Vui lòng để chúng trên bàn ở đằng kia.",
+                "Thưa ông, vâng ạ. Đây là bánh săn-đuých và cà phê. Bánh săn-đuých 3 đô la và cà phê 2 đô la. Vị chi là 5 đô la. Phí phục vụ là 10%. Vậy tổng cộng là 5.5 đô la, Hoá đơn tính tiền đây ạ."
+            ]
+        },
+        {
+            "id": "b4599cca-7d25-473c-bc49-fc02f38c449a",
+            "conversation": [
+                "Xin chào ông. Ông cần gì ạ? ",
+                "Tôi muốn đổi một ít tiền. Ở gần đây có ngân hàng không?",
+                "Tôi e là tất cả các ngân hàng đều đóng cửa vào những ngày chủ nhật. ",
+                "Â vâng, tôi quên hôm nay là chủ nhật. ",
+                "Mặc dù vậy, ở đây chúng tôi có sẵn một dịch vụ - thu ngân. Ông muốn đổi loại tiền nào?",
+                "Tôi muốn đổi tiền bạt của Thái Lan sang đô la Úc. ",
+                "Tỷ giá hối đoái của chúng tôi là 22.62 bạt đổi được 1 đô la và phí hoa hồng là 2%.",
+                "Được. Cho tôi đổi 10.000 bạt.",
+                "Rồi. Như vậy là 442 đô la và 8 xu, trừ 8 đô la và 84 xu phí hoa hồng.",
+                "OK."
+            ]
+        },
+        {
+            "id": "67455f07-e4ae-4207-b1b4-1a17db315704",
+            "conversation": [
+                "Cô có thể đổi một ít tiền cho tôi không? Tôi cần một vài giấy chứng nhận ngoại hối.",
+                "Dĩ nhiên. Ông có loại tiền nào? ",
+                "Tôi có đô la Hồng Kông. (đô l Mỹ, bảng Anh)",
+                "Ông muốn đổi bao nhiêu? ",
+                "Hai nghìn đô la, và hôm nay tỉ giá hối đoái là bao nhiêu vậy? ",
+                "Theo tỉ giá hiện nay, cứ 100 đô la Hồng Kông tiền mặt tương đương uới .. nhân dân tệ và .. xu.",
+                "Đô la Hồng Kông đây.",
+                "Được. Nó đây. ",
+                "Cảm ơn. Ông sẽ có nó ngay. Ông làm ơn ký tên ông vào bản ghi nhớ này nhé?",
+                "Được. Cô làm ơn đưa tôi một vài tờ một hoặc năm nhân dân tệ. Tôi cần một ít tiền lẻ.",
+                "Thưa ông Wang, tiền của ông đây. Ông làm ơn đếm lại chúng và giữ bản ghi nhớ việc đổi tiền này nhé? Ông có thể cần nó để chuyển đổi khi ông rời khỏi Trung Quốc.",
+                "Cảm ơn. Hiện nay, cô có chấp nhận chuyển tiền từ nước ngoài ở đây không?",
+                "Ồ, xin lỗi. Chúng tôi không thể, Bởi vì chúng tôi không thể cho ông biết tỉ giá hối đoái ngày hôm nay. Ông có thể đổi tiền chuyển từ nước ngoài của ông tại ngân hàng Trung Quốc. Bởi vì trong khách sạn của chúng tôi, chúng tôi không có dịch vụ chuyển đổi thư tín.",
+                "Ồ, ra thế. Cảm ơn. ",
+                "Không có gì. "
+            ]
+        },
+        {
+            "id": "103c6337-6596-4b13-8a69-37ee2ac1c6cc",
+            "conversation": [
+                "Tôi muốn gửi vài tấm bưu thiếp cho các bạn của tôi. Tôi có thể mua bưu thiếp và tem ở đâu? ",
+                "Cửa hàng của khách sạn có rất nhiều bưu thiếp để ông chọn và ông cũng có thể mua tem ở đó nữa.",
+                "Vâng. Làm sao tôi biết nên mua tem nào? ",
+                "Nhân viên bán hàng sẽ có một bảng tính. Cô ấy sẽ cho ông biết nên mua tem nào. ",
+                "Vâng. Gần đây có thùng thư không? ",
+                "Thưa ông. Ở đây chúng tôi có thể làm việc đó cho ông. Có một thùng thư ở cuối bàn lễ tân. ",
+                "Hay lắm. Tuyệt vời. Còn một chuyện nữa. Đây là ngày đầu tiên trong chuyến tham quan của tôi ở đây.",
+                "Xin cô gợi ý xem tôi nên đi đến nơi nào trước tiên?",
+                "À, khách sạn có một nhân viên hướng dẫn khách. Bàn của anh ấy ở đằng kia gần cửa ra vào. Anh ấy sẽ có thể cho ông lời khuyên về những điểm du lịch và thậm chí còn có thể đặt vé tham quan cho ông. ",
+                "Được rồi. Bây giờ tôi sẽ đi gặp anh ấy. Một lần nữa xin cảm ơn. Tạm biệt.",
+                "Tạm biệt."
+            ]
+        },
+        {
+            "id": "6c22bb44-64e7-4ab4-ae44-74e11627c77f",
+            "conversation": [
+                "Xin chào, không biết anh có thể giúp tôi không?",
+                "Chắc chắn là tôi sẽ cố gắng. Tôi có thể giúp gì cho ông?",
+                "À, đây là ngày đầu tiên tôi đến Sydney và xin cho tôi vài lời khuyên về những điểm du lịch trong vùng này.",
+                "Chúng tôi có nhiều loại cácc chuyến tham quan. Hãy xem những tờ rơi này và xem ông có thích chuyến nào không?",
+                "Công viên động vật hoang dã như thế nào?",
+                "Ồ, nó rất hay. Nếu ông không có thời gian để đi xem những động vật hoang dã ở nơi cư trú tự nhiên của chúng, ông nên thử đi chuyến tham quan này xem.",
+                "Ở đó họ có những động vật nào? ",
+                "Ồ, bây giờ chúng ta hãy xem nào. Họ có kăng-gu- ru, gấu túi, thú có túi ôpốt, gấu túi nhỏ và đà điểu. Có nhiều lắm!",
+                "Tôi thích động vật hoang dã, vì thế đó là một nơi mà tôi nên đến thăm."
+            ]
+        },
+        {
+            "id": "f5504ad0-9f5a-40b6-a99e-d3d4be273c7a",
+            "conversation": [
+                "Từ rơi ghi rằng nơi đó cũng là nơi trú ẩn của loài gấu túi phải không?",
+                "Vâng. New South Wales có nhiều đám cháy rừng vào mùa hè. ",
+                "Vâng, tôi nhớ là đã đọc về một đám cháy trên báo cách đây không lâu. ",
+                "Nhiều con gấu túi đã bị mất chỗ ở khi rừng bị cháy trụi. Nơi trú ẩn này lại trở thành nhà của chúng.",
+                "À, thật là vui khi biết rằng đồng tiền đã được sử dụng chính đáng. ",
+                "Rõ ràng là không chỉ đối với loài gấu túi. Nhiều loại động vật khác cũng hoặc chết hoặc bị thương trong các đám cháy đó.",
+                "Được, đây cũng là một nơi nữa được đưa vào",
+                "Có một chuyến xe buýt đi đến đó mỗi sáng lúc 9 giờ. Ông có muốn tôi đặt trước một chỗ cho ông không?",
+                "Vâng, ngày mai tôi sẽ đi. Xe buýt sẽ đến đón tôi ở khách sạn chứ? ",
+                "Vâng, ông chỉ cần đợi ở bàn lễ tân và họ sẽ gọi ông."
+            ]
+        },
+        {
+            "id": "3a08a100-4459-48f3-a55f-04894fed5b8f",
+            "conversation": [
+                "Gần khách sạn có nhiều thứ để xem hơn phải không?",
+                "Có ạ. Đây là bản đồ khu vực này. Ông giữ cái này đi.",
+                "Cảm ơn. Tôi muốn đi dạo quanh đây. Tôi nên bắt đầu từ đâu? ",
+                "À, khách sạn nằm ở đây, sát bến cảng. Ngay góc đường là chợ cuối tuần. Hiện giờ đang họp chợ. Ông có thể bắt đầu ở đó.",
+                "Ồ, vâng. Cảm ơn anh, tôi sẽ làm thế. Còn sau đó thì sao? ",
+                "Đối diện ngay bến cảng là nhà hát Opera. Ông có thể đi tham quan quần thể đó.",
+                "Nghe cũng hay nhỉ. Hiện ở đó đang có những buổi diễn gì?",
+                "À, đây là tờ kê tất cả các buổi biểu diễn trong tháng này. Ông có thể kiểm tra ở quầy bán vé xem còn chỗ không khi ông đến đó. ",
+                "Cảm ơn rất nhiều về tất cả sự giúp đỡ của anh. Tốt hơn tôi nên đi bây giờ trước khi chợ tan. ",
+                "Không có gì, thưa ông. Tôi ngồi lại bàn này mỗi ngày nếu ông có cần bất cứ lời khuyên nào khác. Tạm biệt và chúc một ngày thật vui."
+            ]
+        },
+        {
+            "id": "2d0050a1-be2c-46be-a527-64ca5a619e0d",
+            "conversation": [
+                "Những cái áo phông này giá bao nhiêu?",
+                "Cỡ người lớn thì giá 10 đô la một cái và cỡ trẻ em thì 6 đô la",
+                "Có thể tôi mua vài cái cho đứa cháu gái và các cháu trai của tôi.",
+                "Tôi có thể giảm giá cho ông - ba cái áo phông 15 đô la, được chưa? ",
+                "Được ạ. Nghe có vẻ là món hời đấy. ",
+                "Ông muốn lấy cỡ nào?",
+                "Đứa cháu gái của tôi 8 tuổi và hai đứa sinh đôi 5 tuổi. ",
+                "Ông muốn kiểu nào?",
+                "À, đứa cháu gái của tôi thích cái áo phông có con gấu túi này, nhưng tôi không biết hai thằng con trai thích gì. Vâng, có lẽ là những con kăng-gu-ru.",
+                "Tất cả là 15 đô la",
+                "15 đô la. Đây tiền đây.",
+                "Cảm ơn ông.",
+                "Cảm ơn."
+            ]
+        },
+        {
+            "id": "4c263f54-9e1d-4eab-ba9d-505b628e744c",
+            "conversation": [
+                "Xin chào. Tôi thích xem một vở diễn ba lê.",
+                "Ồ, vâng, hiện giờ chúng tôi đang có buổi diễn “Mirror-Mirror”. Đó là buổi diễn dựa theo câu chuyện nàng Bạch Tuyết. ",
+                "Nghe có vẻ hay đấy. Xin cô cho tôi biết các giờ diễn?",
+                "Vâng. Để xem nào. Chúng tôi có các buổi diễn lúc 7 giờ suốt cả tuần và vào cuối tuần, chúng tôi có một suất diễn chiều bắt đầu lúc 4 giờ.",
+                "Cô có còn chỗ cho một suất diễn tối trong tuần ",
+                "Tuần này à. Để tôi xem đã. Có. Ông muốn xem ngày nào?",
+                "Thứ ba.",
+                "Được. Và ông muốn ngồi gần sân khấu hay ở ban công? ",
+                "Cho ghế ở ban công.",
+                "Được. Vậy là một vé cho buổi biểu diễn \"Mirror-Mirror\" vào thứ ba. Ông ngồi một ghế ở ban công và để tôi xem tôi có thể chọn cho ông một chỗ càng gần phía trước càng tốt hay không. Có đây. Tất cả là 78 đô la.",
+                "OK. Tiền đây. ",
+                "Vâng. Và vé của ông đây. Tôi hy vọng ông sẽ thích buổi diễn. ",
+                "Cảm ơn. Ồ! Cô vui lòng chỉ cho tôi đường đến viện bảo tàng nghệ thuật.",
+                "Vâng. Chỉ cần đi ra cửa, rẽ phải, đi vòng qua vườn bách thảo và ông sẽ nhìn thấy viện bảo tàng nghệ thuật ở ngay trước mặt ông.",
+                "Vâng. Cảm ơn. Tôi mong là tôi không bị lạc đường. ",
+                "Đừng lo. Có nhiều biển hiệu dọc đường đó.",
+                "Tốt. Có lẽ tôi sẽ còn cần đến chúng. Cảm ơn. Tạm biệt.",
+                "Tạm biệt."
+            ]
+        },
+        {
+            "id": "064a2820-c2e4-4066-aeff-7ccf7cb5c715",
+            "conversation": [
+                "Xin lỗi. Tôi nghĩ tôi bị lạc đường. Xin ông giúp tôi?",
+                "Được. Ông muốn đi đâu?",
+                "À, tôi đang cố để trở về khách sạn tôi ở. Tôi đang ở tại khách sạn Four Seasons. Ông biết nó chứ?",
+                "Vâng, tôi biết. Ông đang ở cách đó quá xa rồi.",
+                "Tôi nghĩ có lẽ thế. ",
+                "Ông phải đi bộ trở lại qua trung tâm thành phố. Tôi có thể chỉ cho ông nhưng phức tạp lắm.",
+                "Có lẽ tốt hơn là tôi nên đón taxi. ",
+                "Tôi nghĩ có lẽ đó là một ý hay. Ông có thể đón một chiếc taxi ở cuối đường.",
+                "Vâng, cảm ơn ông đã giúp đỡ. Tạm biệt.",
+                "Tạm biệt."
+            ]
+        },
+        {
+            "id": "3889629a-92f3-4a5c-a89b-33d4bcefbe26",
+            "conversation": [
+                "Vợ chồng tôi muốn chụp chung kiểu ảnh",
+                "Anh hãy điền vào mẫu đơn này đi. Anh chị muốn chụp ảnh chính diện hay ảnh nhìn nghiêng?",
+                "Em có nghĩ là chúng ta nên chụp kiểu ảnh chính diện không Lan?",
+                "Anh chị hãy ngồi lên chiếc ghê sô fa này. Anh chị có thấy thoải mái không?",
+                "Vâng. Rất thoải mái",
+                "Anh Phan, hãy cười tươi lên nào",
+                "Điều này khó quá.Nếu ông có điều gì đó hài hước thì tôi mới cười được."
+            ]
+        },
+        {
+            "id": "afe662df-a2b9-42f1-98d7-84a7b6d090b8",
+            "conversation": [
+                "Anh làm ơn rửa giúp tôi cuộn phim này",
+                "Vâng",
+                "Khi nào thì xong ạ?",
+                "Tối mai anh đến lấy nhé. Đây là biên lai của anh",
+                "Vâng"
+            ]
+        },
+        {
+            "id": "38000800-4f33-4a95-b010-c1d3df574b9f",
+            "conversation": [
+                "Nói “ Konica” đi nào!",
+                "“Konica”!",
+                "Hình như anh bị chớp mắt rồi. Lần này, đừng có động đậy và nhớ nói “ Konica” nhé",
+                "Được thôi, nhưng đây là lần cuối cùng đấy nhé. Tôi đau hết cả miệng vì cười suốt từ nãy đến giờ rồi đây này",
+                "Một lần này nữa thôi, được không? Tôi sẽ để ống kính lại gần để chụp bức ảnh cận cảnh anh đứa trước bức tượng đó",
+                "Được đấy. Đã xong chưa?",
+                "Xong rồi. Bức ảnh này sẽ rất đẹp đấy"
+            ]
+        },
+        {
+            "id": "1c74b225-9600-4f1c-94b4-f4c52b306ba3",
+            "conversation": [
+                "Cậu thấy có những triệu chứng gì?",
+                "Tôi thấy lạnh, bị chuột rút, liên tục buồn ôn , ngoài ra còn thấy chóng mặt và mệt mỏi",
+                "Nghe có vẻ như cậu bị mất nước. Cậu có thấy khát nước không?",
+                "Có. Tôi có cảm giác như uống bao nhiêu cũng không đủ.",
+                "Cậu có uống nhiều nước không?",
+                "Không, tôi chỉ uống sô đa thôi",
+                "Thôi được. Chúng tôi sẽ cử y tá lấy máu của cậu để xét nghiệm. Nhưng trước tiên để tôi bắt mạch cho cậu đã",
+                "Cảm ơn bác sỹ"
+            ]
+        },
+        {
+            "id": "920f2109-27ba-4e0f-aee6-527a4b1e4d57",
+            "conversation": [
+                "Chào anh. Anh bị sao thế?",
+                "Chào bác sĩ. Đầu tôi đau như búa bổ vậy",
+                "Được rồi, chàng trai. Hãy kể cho tôi các triệu chứng ban đầu như thế nào",
+                "Hôm qua, tôi bị sổ mũi. Bây giờ tôi nghẹt mũi, đau họng và sốt nhẹ. Tôi cảm thấy rất khó chịu.",
+                "Đừng lo lắng. Để tôi khám cho cậu",
+                "Bệnh có nghiêm trọng không ạ? Tôi phải làm sao ạ?",
+                "Cậu cần nghỉ ngơi, uống nhiều nước. Tôi sẽ kê đơn thuốc cho cậu",
+                "Cảm ơn ông nhiều",
+                "Chào anh"
+            ]
+        },
+        {
+            "id": "6b2fbf46-ec66-4cd7-a487-4d04d48f9c6d",
+            "conversation": [
+                "Anh thấy khó chịu ở đâu?",
+                "Bụng tôi đau dữ dội. Đêm qua tôi không thể nào ngủ được",
+                "Để tôi kiểm tra vùng bụng. Đau ở đây phải không?",
+                "Không. Ở vùng dưới bên phải rất đau",
+                "Anh cần tiêm trước 1 mũi giảm đau. Anh phải nhập viện ngay vì anh bị viêm ruột thừa rồi"
+            ]
+        },
+        {
+            "id": "04d9ea6c-0129-4f09-8c44-105908be39a5",
+            "conversation": [
+                "Xin lỗi, làm ơn chỉ cho tôi chỗ có thể mua giấy bọc và gửi món bưu phẩm này",
+                "Anh có thể mua giấy bọc tại đây nhưng sẽ phải ra xếp hàng ở đằng kia để gửi bưu phẩm",
+                "Tôi có thể mua tem ở đây được không?",
+                "Được chứ. Anh muốn mấy chiếc?",
+                "Tôi cần mua 5 chiếc để gửi những tấm thiệp này",
+                "Anh định gửi chúng ra nước ngoài phải không?",
+                "Tôi muốn gửi chúng sang cho mấy người bạn của tôi ở Đan Mạch"
+            ]
+        },
+        {
+            "id": "536e0619-f224-4f20-a5d8-c05f81c7ce9c",
+            "conversation": [
+                "Tôi có thể giúp gì cho anh không?",
+                "Tôi muốn gửi bưu phẩm sang Nga",
+                "Anh muốn gửi bình thường hay gửi bằng đường hàng không?",
+                "Tôi nghĩ gửi bằng đường hàng không sẽ đắt hơn nhiều",
+                "Còn phụ thuộc vào trọng lượng của món đồ",
+                "Vậy gửi bằng đường hàng không sẽ mất bao nhiêu?",
+                "Anh làm ơn đặt bưu phẩm lên bàn cân",
+                "Được thôi",
+                "Nó nặng 500g. Như vậy sẽ mất 350.000 đồng nếu gửi qua đường hàng không",
+                "Như thế cũng không đắt lắm. Tôi sẽ chọn cách gửi này. Mức giá đó đã bao gồm cả tiền bảo hiểm cho vật đựng trong bưu phẩm chưa hay phải trả lệ phí riêng?",
+                "Phải trả riêng. Phải bảo đảm là 50.000 đồng",
+                "Không thành vấn đề",
+                "Anh hãy điền vào mẫu hải quan này. Hãy ấn mạnh bút xuống để các thông tin có thể in xuống được cả liên nhé",
+                "Được thôi. Tôi có cần phải ghi địa chỉ khứ hồi lên bưu phẩm không?",
+                "Có chứ. Nếu bưu phẩm không đến được tay người nhận, chúng tôi sẽ gửi trở lại cho người gửi.",
+                "OK.Cảm ơn anh rất nhiều",
+                "Không có gì"
+            ]
+        },
+        {
+            "id": "1660006e-d330-446e-baba-2c6f0c692b34",
+            "conversation": [
+                "Chị giúp tôi 1 lát được không?",
+                "Được chứ ạ.",
+                "Tôi muốn gửi bưu kiện này tới Pháp",
+                "Anh muốn gửi theo đường hàng không hay đường hàng hải?",
+                "Gửi theo đường hàng hải thì mất bao lâu?",
+                "Khoảng 1 tuần",
+                "Vậy tôi sẽ gửi theo đường hàng hải",
+                "Anh hãy điền vào hóa đơn này nhé",
+                "Vâng. Cảm ơn chị",
+                "Không có gì"
+            ]
+        },
+        {
+            "id": "ad8ea062-4446-44c8-b044-2d019b7d8a32",
+            "conversation": [
+                "Chào cô. Tôi đến đây để mua thuốc",
+                "Anh có mang theo đơn thuốc không?",
+                "Có, để tôi tìm đã… Nó đây rồi",
+                "Vâng, đây là đơn thuốc gồm 1 số loại thuốc kháng sinh, phải vậy không?",
+                "Vâng. Nó dùng để uống trong 2 tuần",
+                "Hmm… ở đây ghi là chỉ uống trong 1 tuần thôi mà",
+                "Tôi cứ đinh ninh tôi phải uống số thuốc đó trong 2 tuần",
+                "Được rồi. Anh có cần thêm gì nữa không?",
+                "Có, tôi cần ít thuốc mỡ chữa bỏng, gạc để buộc vết thương và ít thuốc aspirin",
+                "Thuốc của anh đây",
+                "Cảm ơn cô. Tất cả hết bao nhiêu?",
+                "Tất cả hết 208.000 đồng. Anh có muốn cho hết vào 1 túi không?",
+                "Thế cũng được. Rồi tôi sẽ cho tất cả vào ba lô"
+            ]
+        },
+        {
+            "id": "c52f1fa7-332f-48e8-925a-c45e85da7cd6",
+            "conversation": [
+                "Xin chào",
+                "Xin chào. Tôi có thể giúp gì cho anh?",
+                "Tôi đau răng quá",
+                "Anh đau lâu chưa?",
+                "Khoảng 2, 3 tiếng rồi",
+                "Thử thuốc này đi. 3 tiếng uống 1 lần, mỗi lần 2 viên.",
+                "Cảm ơn cô. Tạm biệt",
+                "Chúc anh mau khỏi. Tạm biệt"
+            ]
+        },
+        {
+            "id": "8b180527-97eb-4ced-863f-68fb94647966",
+            "conversation": [
+                "Tôi bị đau lưng quá, tôi cần thuốc giảm đau",
+                "Vâng. Cô có đơn thuốc không?",
+                "Nếu vậy tôi sẽ bán cho cô thuốc thông thường. Đó là loại thuốc rất có hiệu quả",
+                "Tôi không để ý lắm, miễn là nó phát huy tác dụng",
+                "Cô muốn gói lại không?",
+                "Không cần đâu, cô nói cho tôi cách dùng thuốc này là được",
+                "Vâng. Cô chia ra uống mỗi ngày 3 lần, mỗi lần 2 viên"
+            ]
+        },
+        {
+            "id": "1c0414c6-a2c8-4f0b-9a3a-22ed3df2a1a2",
+            "conversation": [
+                "Chào bà. Tôi có thể giúp gì cho bà?",
+                "Tôi muốn gửi 100.000.000 tại ngân hàng này",
+                "Bà muốn gửi loại tài khoản vãng lai hay tài khoản có kỳ hạn?",
+                "Tôi không rõ lắm. Anh có thể cho tôi biết lãi suất của từng loại được không?",
+                "Không vấn đề gì thưa bà. Đối với tài khoản vãng lai lãi suất là 1% một năm. Nhưng với tài khoản có kỳ hạn, thời điểm hiện tại lãi suất là 1,6%",
+                "Ồ, khác nhau khá nhiều. Vậy tôi chọn loại tài khoản có kỳ hạn",
+                "Sổ tiết kiệm của bà đây. Hàng năm lãi suất sẽ được thêm vào tài khoản của bà",
+                "Cảm ơn sự giúp đỡ của anh",
+                "Rất hân hạnh"
+            ]
+        },
+        {
+            "id": "949b0e90-1abb-4e97-897c-fb7aae081749",
+            "conversation": [
+                "Xin chào ông. Tôi có thể giúp gì được cho ông?",
+                "Xin chào. Tôi muốn mở tài khoản",
+                "Vâng thưa ông. Ông muốn mở tài khoản tiết kiệm hay tài khoản séc?",
+                "Tôi muốn mở tài khoản tiết kiệm. Lãi suất tài khoản tiết kiệm ở đây là bao nhiêu?",
+                "Ngân hàng chúng tôi đưa ra mức lãi suất là 2,5% 1 năm",
+                "Mức đó quả là không tệ. Vậy tôi muốn gửi 1.000 đô la vào tài khoản tiết kiệm",
+                "Vâng. Trước tiên xin ông điền đầy đủ vào phiếu gửi tiền",
+                "Được thôi. Tôi điền xong rồi đây",
+                "Và tiền gửi của ông nữa ạ",
+                "Vâng. Cô thật tốt bụng.",
+                "Sổ tiết kiệm của ông đây",
+                "Cảm ơn cô nhiều",
+                "Không có gì, thưa ông"
+            ]
+        },
+        {
+            "id": "81842b15-fa45-4e70-ba0a-4b7aa463253b",
+            "conversation": [
+                "Xin chào",
+                "Xin chào quý khách. Tôi có thể giúp gì cho quý khách?",
+                "Vâng. Tôi muốn ở 1 tài khoản tiết kiệm nhưng không rõ nên chọn loại nào cho phù hợp. Anh có thể cho tôi 1 vài lời khuyên được không?",
+                "Được chứ ạ. Tôi rất hân hạnh được phục vụ quý khách.Thông thường ngân hàng chúng tôi có loại tài khoản vãng lai và tài khoản gửi có kỳ hạn cho các cá nhân",
+                "Hai loại này có gì khác nhau?",
+                "Nếu quý khách mở tài khoản có kỳ hạn quý khách sẽ được cấp 1 giấy chứng nhận gửi tiền có tên của người gửi và lãi suất cao hơn. Nếu mở tài khoản vãng lai quý khách có thể rút tiền bất cứ lúc nào và quý khách chỉ cần trình sổ rút tiền. Loại này thì tiện lợi hơn",
+                "Cảm ơn anh đã giúp đỡ. Tôi nghĩ mình sẽ mở tài khoản vãng lai",
+                "Được ạ. Tôi sẽ giúp quý khách thực hiện việc này",
+                "Cảm ơn anh rất nhiều.",
+                "Đó là niềm vinh hạnh của tôi."
+            ]
+        },
+        {
+            "id": "870ad045-2b7d-412c-8025-06f05290ccb9",
+            "conversation": [
+                "Này anh! Chuyến tàu này đến muộn quá! Tôi đã đợi ở đây lâu lắm rồi",
+                "Ông đang đợi chuyến tàu nào?",
+                "Chuyến tàu tới Nha Trang lúc 9 giờ",
+                "Chuyến 9 giờ ư? Tôi e là có sự nhầm lẫn, thưa ông",
+                "Nhầm lẫn ư? Nhưng tôi thường đi chuyến tàu này. Và trong bản giờ tàu của tôi có ghi: Chuyến tàu đến Nha Trang lúc 9 giờ",
+                "Ôi không phải đâu, thưa ông. Chuyến tàu đến Nha Trang khởi hành lúc 8h30",
+                "Lúc 8 giờ 30 sao?",
+                "Đúng vậy. Họ đã thay đổi lịch trình từ đầu năm rồi ạ",
+                "Ồ, tôi hiểu rồi. Tôi lại phải đợi rồi"
+            ]
+        },
+        {
+            "id": "65f018cc-bd1f-4ba1-a2e7-dfd5b9a55daf",
+            "conversation": [
+                "Làm ơn cho hỏi có những tàu nào đến Huế?",
+                "Vâng, có mấy chuyến tới Huế đấy. Cách đây 10 phút có 1 chuyến, chuyến sau sẽ chạy vào lúc 2 giờ",
+                "Là tàu nhanh hay tàu chậm vậy?",
+                "Tàu chậm",
+                "Bao nhiêu tiền 1 vé?",
+                "200.000 đồng. Anh có muốn mua ngay bây giờ không?",
+                "Có, cho tôi 1 vé"
+            ]
+        },
+        {
+            "id": "c38bebce-6139-4553-851f-e18d193f9e39",
+            "conversation": [
+                "Xin chào, tôi có thể giúp gì cho ông?",
+                "Vâng, tôi muốn tới Đà Nẵng. Khi nào có chuyến tàu tiếp theo?",
+                "Để tôi xem nào. Có 1 chuyến vào 10 giờ nhưng ông phải chuyển tàu, còn 1 chuyến nữa vào 10 giờ 30",
+                "Tôi có phải đổi tàu không?",
+                "Không, chuyến này đi thẳng",
+                "Được, làm ơn cho tôi vé khứ hồi nhé",
+                "Vâng. Vé của ông đây",
+                "Cảm ơn. Tạm biệt",
+                "Tạm biệt ông"
+            ]
+        },
+        {
+            "id": "7d755cb4-8e62-45c5-aa16-ecde2fd6defc",
+            "conversation": [
+                "Anh phục vụ! Bàn này chưa ai đặt phải không?",
+                "Vâng ạ. Các anh có mấy người?",
+                "4 người",
+                "Mời các anh ngồi. Các anh gọi gì chưa?",
+                "Làm ơn cho tôi xem qua thực đơn được không?",
+                "Đây thưa anh",
+                "Cảm ơn"
+            ]
+        },
+        {
+            "id": "8fa59d15-45c9-4426-adef-62c4a688effc",
+            "conversation": [
+                "Tôi đã đặt trước bàn cho 2 người tối nay. Tên tôi là Phong",
+                "Vâng, mời ông theo tôi",
+                "Ở đây không hút thuốc phải không?",
+                "Vâng. Ông muốn chờ vị khách kia tới, hay muốn gọi món luôn ạ?",
+                "Tôi sẽ chờ 1 lát",
+                "Ông muốn uống gì trước? Cocktail hay nước ép trái cây?",
+                "Hãy cho tôi 1 ly nước cam",
+                "Vâng. Và đây là thực đơn ạ",
+                "Cảm ơn"
+            ]
+        },
+        {
+            "id": "b1656794-61ff-428c-8154-7450e6ef6ff2",
+            "conversation": [
+                "Anh gọi đồ ăn luôn chứ ạ?",
+                "Vâng, mang trước cho tôi món súp kem trước nhé",
+                "Tiếp theo anh muốn gọi món gì ạ?",
+                "Có lẽ tôi sẽ ăn món khoai tây chiên",
+                "Được ạ. Anh có muốn dùng đồ uống gì không ạ?",
+                "Không, cảm ơn anh. Thế là đủ rồi"
+            ]
+        },
+        {
+            "id": "2e95e6c7-3537-4fee-98b7-08284fc4b094",
+            "conversation": [
+                "Hiện tại bộ phim nào thu hút khán giả nhất?",
+                "Đó là phim “ Những đứa trẻ to xác”- 1 lựa chọn khá thú vị để thư giãn",
+                "Gía vé là bao nhiêu?",
+                "30.000 đồng 1 vé",
+                "Được đấy. Bán cho tôi 5 vé"
+            ]
+        },
+        {
+            "id": "a232f3e2-587f-48cd-9baf-f67ff27f3f04",
+            "conversation": [
+                "Mình không thích bộ phim này lắm.! Cậu có thích không?",
+                "Mình đã cố gắng để hiểu nó, nhưng không thể",
+                "Đúng vậy, họ dùng nhiều tiếng lóng quá",
+                "Diễn xuất của diễn viên nam rất đạt, nhưng giọng nói của anh ấy thì thật kinh khủng.",
+                "Cậu nói đúng"
+            ]
+        },
+        {
+            "id": "0a00713f-0ef6-471d-9a30-caa6505d9dea",
+            "conversation": [
+                "Anh đã xem bộ phim “ Avatar” chưa?",
+                "Chưa. Tôi nghe nói bộ phim đó rất hay. Hầu hết các đồng nghiệp của tôi đã xem nó, nhưng tôi vẫn chưa có thời gian",
+                "Có lẽ chúng ta nên cùng nhau đi xem.Mỗi lần các đồng nghiệp của tôi bàn luận, tôi chẳng biết nói gì. Tôi chỉ có thể ngồi yên 1 bên. Thật là xấu hổ",
+                "Anh có biết phim này chiếu ở rạp nào không?",
+                "Rạp Ngọc Khánh có thể vẫn đang chiếu",
+                "Chúng ta có cần phải đặt chỗ ngồi trước không?",
+                "Tôi nghĩ là cần. Anh gọi điện thoại đặt chỗ nhé?",
+                "Nhất định rồi."
+            ]
+        },
+        {
+            "id": "f621fe27-5480-46ff-995b-af046ba764fe",
+            "conversation": [
+                "Tôi không thể đợi được nữa, tôi muốn nói chuyện với Trường",
+                "Sao thế?",
+                "Anh ấy nói anh ấy có 1 vài tin tốt lành về bài thi cuối kỳ dành cho tôi.",
+                "Ồ, thế thì tuyệt quá"
+            ]
+        },
+        {
+            "id": "0d2fd41a-f512-46a8-8be9-d8661d06c246",
+            "conversation": [
+                "Lâu rồi cậu có gặp Vân không?",
+                "Không. Mình nghe nói cô ấy chuyển vào Đà Nẵng rồi",
+                "Thật vậy sao? Nếu được gặp lại Vân thì tốt biết bao",
+                "Nhất định rồi"
+            ]
+        },
+        {
+            "id": "99e7e7f1-f2a3-4372-aa6a-4b505c069b84",
+            "conversation": [
+                "Anh mua xe khi nào vậy?",
+                "Tôi mua tuần trước",
+                "Anh có thích chiếc xe mới này không?",
+                "Tôi rất thích. Nó tuyệt lắm"
+            ]
+        },
+        {
+            "id": "628a55e9-9d7a-48d9-b5ab-2a37b2c13713",
+            "conversation": [
+                "Chào anh. Tôi là Kiên",
+                "Chào anh. Còn tôi là Vinh",
+                "Đây là danh thiếp của tôi",
+                "Cảm ơn anh, còn đây là danh thiếp của tôi."
+            ]
+        },
+        {
+            "id": "52d19beb-22e1-413a-ac33-73c3c1ebefe3",
+            "conversation": [
+                "Chào anh. Tôi là Huy Tuấn.",
+                "Xin chào, tôi tên là Thành Trung. Rất vui được gặp anh.",
+                "Tôi cũng rất hân hạnh được làm quen với anh",
+                "Anh đến từ Quảng Bình phải không?",
+                "Không, tôi đến từ Hà Tĩnh."
+            ]
+        },
+        {
+            "id": "efc70176-e8cc-404f-9742-9d0444c95fca",
+            "conversation": [
+                "Xin cho phép tôi được tự giới thiệu . Tôi là Quang",
+                "Còn tôi là John Smith. Rất hân hạnh được làm quen với anh.",
+                "Anh là người Úc phải không?",
+                "Không , tôi là người Mỹ",
+                "Anh có thích Hà Nội không?",
+                "Có chứ, tôi rất thích nơi này.",
+                "Anh đến đây du lịch à?",
+                "Không. Tôi đi công tác.",
+                "Anh đã từng đến Việt Nam chưa?",
+                "Chưa. Đây là lần đầu tiên tôi đến đây.",
+                "Anh sẽ ở lại Việt Nam trong bao lâu?",
+                "Tôi ở lại đây 1 tuần ",
+                "Anh có biết tiếng Việt không?",
+                "Ô, chỉ 1 chút thôi."
+            ]
+        },
+        {
+            "id": "c64f4223-fed8-4ac0-8dab-ba5e199bc88d",
+            "conversation": [
+                "Sở thích của cậu là gì, Ngọc?",
+                "À, tớ thích âm nhạc và vẽ. Còn cậu thì sao?",
+                "Tớ cũng thích âm nhạc. Tớ còn thích cả sưu tập tem nữa",
+                "Thật thú vị! Mình cũng đã từng sưu tập tiền xu đấy",
+                "Thật sao?",
+                "Ừ, mình cũng sưu tập rất nhiều thứ khác nữa"
+            ]
+        },
+        {
+            "id": "1d79be8c-e103-4e7e-a2c0-20336e162181",
+            "conversation": [
+                "Cậu thường làm gì vào những lúc rảnh rỗi?",
+                "Mình rất thích xem các bộ phim nước ngoài. Còn cậu thì sao?",
+                "Mình thích các hoạt động ngoài trời. Cậu có thích cắm trại không?",
+                "Chỉ cắm trại qua 1 đêm thì không sao, mình không thể cắm trại qua nhiều hơn 1 đêm được!",
+                "Cậu đã bao giờ cắm trại ở Đà Lạt chưa?",
+                "Chưa, nhưng mình rất thích được cắm trại ở đó. Mình nghe nói đó là nơi rất tuyệt",
+                "Nó rất lãng mạn. Mình va mọi người trong gia đình đều thích nơi này",
+                "Cậu có bức ảnh về cảnh cắm trại ở đó không?",
+                "Có chứ, cậu có muốn xem không?",
+                "Hay quá"
+            ]
+        },
+        {
+            "id": "d8fd0a91-370a-4304-8e13-d92d220d680e",
+            "conversation": [
+                "Mình chán ngấy chỗ bài tập này rồi",
+                "Mình cũng vậy. Chúng ta nghỉ 1 lát nhé",
+                "Được. Cậu thích nhạc pop không?",
+                "Có, mình rất thích",
+                "Cậu thích ban nhạc nào nhất?",
+                "Mình thích nhất là ban nhạc Blue. Cậu có thích ban nhạc ấy không?",
+                "Ừm, mình thích các ban nhạc của Hàn Quốc hơn"
+            ]
+        },
+        {
+            "id": "a0926d23-1464-46eb-a0ac-dbdb5e33dcb2",
+            "conversation": [
+                "Lâm, sao con không đi xem phim cùng anh con?",
+                "Con chẳng còn tâm trạng nào cả",
+                "Sao thế",
+                "Bài thi môn tiếng Anh của con lại không đạt yêu cầu. Con muốn bỏ môn học này",
+                "Con đừng nản, hãy cố gắng lên!",
+                "Chắc là con không theo kịp các bạn cùng lớp",
+                "Cố lên! Mẹ biết con có thể làm được mà"
+            ]
+        },
+        {
+            "id": "c8388d42-e3cd-4122-96a0-715c4a6bf6dc",
+            "conversation": [
+                "Chào Khải, trông anh rất buồn. Có chuyện gì vậy?",
+                "Tôi và Dung chia tay rồi. Trái tim tôi như tan nát hết rồi",
+                "Anh hãy bình tĩnh nào",
+                "E là tôi không thể làm được",
+                "Hãy cứ nghĩ cô ấy không phải dành cho anh đi",
+                "Nhưng tôi rất yêu cô ấy",
+                "Đừng có buồn như vậy, anh sẽ ổn thôi. Hãy để quá khứ trôi vào quên lãng đi."
+            ]
+        },
+        {
+            "id": "0a9d47b1-cc66-4842-9b59-73e9ce0b9191",
+            "conversation": [
+                "Chị Hương này, nhà mới của chị thế nào?",
+                "Nó không tốt như tôi nghĩ",
+                "Thật không? Lẽ nào đó không phải là ngôi nhà đẹp sao?",
+                "Nó rất đẹp, nhưng ở gần đó có 1 sân bay nhỏ, vì vậy có lúc rất ồn",
+                "Thế thì tệ thật. Nhưng hầu hết thời gian đều yên tĩnh đúng không?",
+                "Đúng, nhưng tôi lo có ngày máy bay sẽ rơi vào nhà tôi",
+                "Chuyện này không thể xảy ra được. Chị không cần phải lo như thế"
+            ]
+        },
+        {
+            "id": "e8d09515-ea8d-4cad-8189-bded68bfbfd3",
+            "conversation": [
+                " Chúng ta sẽ họp hàng tuần mỗi sáng thứ ba tại văn phòng công trường của nhà thầu, bắt đầu từ 9 giờ. Ông có ý kiến gì khác không ?",
+                "Ồ không, OK sáng thứ ba.",
+                "Ngoài các việc khác, chúng ta sẽ kiểm tra tiến độ để điều chỉnh tiến độ thi công.",
+                "Chúng tôi sẽ lập báo cáo hàng tuần vào các ngày cuối tuần và một tiến độ hàng tuần cho tuần tới.",
+                "Ít nhất 2 ngày trước buổi họp hàng tuần, các ông phải nạp cho chúng tôi bất cứ vấn đề gì phải thảo luận ngoài công việc bình thường ở công trình. ",
+                "Đối với công việc hàng ngày, các ông sẽ nạp 1 báo cáo hàng ngày lúc 9h sáng hôm sau. Về các mẫu báo cáo, xin làm việc với tôi. Tôi có các mẫu cần có. ",
+                "OK, thưa ông Hà. Tôi sẽ làm việc với ông ngay sau buổi họp này nếu ông cho phép, để được hướng dẫn về việc lập báo cáo. ",
+                "Rất vui lòng, thưa ông Ba.",
+                "OK, cám ơn ông về hôm nay."
+            ]
+        }
+    ]
+}
